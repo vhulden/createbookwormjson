@@ -1,0 +1,4 @@
+[
+    {"field":"date","datatype":"time","type":"numeric","unique":false,"derived":[{"resolution":"year"}]},
+    {"field":"searchstring","datatype":"searchstring","type":"text","unique":true}
+]

@@ -1,0 +1,993 @@
+{"searchstring": "ROBERT TANZILO - The Battle for Souls: A Protestant Evangelist in Italian Milwaukee", "date": "2005-7", "filename": "2005_ocr_10.2307_29777037"}
+{"searchstring": "John Hanson and  Michael Dempsey and  Rob Nilsson - "Northern Lights": An Interview with John Hanson and Rob Nilsson", "date": "1979-7", "filename": "1979_ocr_10.2307_1211951"}
+{"searchstring": "Leila J. Rupp - Sexuality and Politics in the Early Twentieth Century: The Case of the International Women's Movement", "date": "1997-0", "filename": "1997_ocr_10.2307_3178388"}
+{"searchstring": "Howard Horwitz - Always with Us", "date": "1998-7", "filename": "1998_ocr_10.2307_490165"}
+{"searchstring": "Linda K. Kerber - Separate Spheres, Female Worlds, Woman's Place: The Rhetoric of Women's History", "date": "1988-6", "filename": "1988_ocr_10.2307_1889653"}
+{"searchstring": "Joan Sangster - The Communist Party and the Woman Question, 1922-1929", "date": "1985-4", "filename": "1985_ocr_10.2307_25140552"}
+{"searchstring": "David Metzer - The New York Reception of "Pierrot lunaire": The 1923 Premiere and Its Aftermath", "date": "1994-2", "filename": "1994_ocr_10.2307_742506"}
+{"searchstring": "Henry F. May - The Rebellion of the Intellectuals, 1912-1917", "date": "1956-7", "filename": "1956_ocr_10.2307_2710160"}
+{"searchstring": "Amélie Oksenberg Rorty - The Two Faces of Courage", "date": "1986-4", "filename": "1986_ocr_10.2307_3750473"}
+{"searchstring": "Christopher Hitchens - Loss Leaders", "date": "1989-4", "filename": "1989_ocr_10.2307_25007247"}
+{"searchstring": "Marshall Battani and  David R. Hall and  Rosemary Powers - Cultures' Structures: Making Meaning in the Public Sphere", "date": "1997-2", "filename": "1997_ocr_10.2307_657935"}
+{"searchstring": "Donald F. Tingley - Ellen Van Volkenburg Maurice Browne and the Chicago Little Theatre", "date": "1987-0", "filename": "1987_ocr_10.2307_40192140"}
+{"searchstring": "Michael Smith - The Living Theatre at Cooper Union: A Symposium with William Coco, Jack Gelber, Karen Malpede, Richard Schechner, and Michael Smith", "date": "1987-0", "filename": "1987_ocr_10.2307_1145804"}
+{"searchstring": "BRENDA K. SHELTON - Organized Mother Love: The Buffalo Women's Educational and Industrial Union, 1885–1915", "date": "1986-4", "filename": "1986_ocr_10.2307_23178149"}
+{"searchstring": "Yvonne Rainer - Murder and Murder", "date": "1997-1", "filename": "1997_ocr_10.2307_3245748"}
+{"searchstring": "Josephine Donovan - The Unpublished Love Poems of Sarah Orne Jewett", "date": "1979-0", "filename": "1979_ocr_10.2307_3346145"}
+{"searchstring": "Nancy F. Cott - What's in a Name? The Limits of 'Social Feminism;' or, Expanding the Vocabulary of Women's History", "date": "1989-2", "filename": "1989_ocr_10.2307_2936422"}
+{"searchstring": "Marie Marmo Mullaney - Gender and the Socialist Revolutionary Role, 1871-1921: A General Theory of the Female Revolutionary Personality", "date": "1984-7", "filename": "1984_ocr_10.2307_41298827"}
+{"searchstring": "GERALD STERN - Self-Portrait", "date": "1975-1", "filename": "1975_ocr_10.2307_27775080"}
+{"searchstring": "Mary E. Triece - Appealing to the "Intelligent Worker": Rhetorical Reconstitution and the Influence of Firsthand Experience in the Rhetoric of Leonora O'Reilly", "date": "2003-4", "filename": "2003_ocr_10.2307_3886095"}
+{"searchstring": "Linda Gordon - Are the Interests of Men and Women Identical?", "date": "1976-7", "filename": "1976_ocr_10.2307_3173257"}
+{"searchstring": "loraine hutchins - solidarity: a u.s. socialist/feminist network", "date": "1981-8", "filename": "1981_ocr_10.2307_25793841"}
+{"searchstring": "Mark D. Rosen - The Surprisingly Strong Case for Tailoring Constitutional Principles", "date": "2005-5", "filename": "2005_ocr_10.2307_4150636"}
+{"searchstring": "Philip G. Altbach - Publishing and the Intellectual System", "date": "1975-9", "filename": "1975_ocr_10.2307_1040864"}
+{"searchstring": "Carole Pateman - What's Wrong with Prostitution?", "date": "1999-4", "filename": "1999_ocr_10.2307_40003398"}
+{"searchstring": "Mary Patten - What Is To Be (Un)Done: Notes on Teaching Art and Terrorism", "date": "2011-2", "filename": "2011_ocr_10.5406_radicalteacher.89.0009"}
+{"searchstring": "Patricia Miller King - The Power of Preservation: The Schlesinger Library at Fifty", "date": "1993-7", "filename": "1993_ocr_10.2307_25632977"}
+{"searchstring": "Ralph A. Ciancio - Richard Wright, Eugene O'Neill, and the Beast in the Skull", "date": "1993-7", "filename": "1993_ocr_10.2307_3195177"}
+{"searchstring": "David J. Pittman and  Deirdre Boden - Sociology at Washington University in St. Louis: History and Reflections, 1906-1989", "date": "1989-2", "filename": "1989_ocr_10.2307_27698490"}
+{"searchstring": "Robert Forrey - Doctorow's "The Book of Daniel": All in the Family", "date": "1982-1", "filename": "1982_ocr_10.2307_41205573"}
+{"searchstring": "Catherine Parsons Smith - Founding the Hollywood Bowl", "date": "1993-7", "filename": "1993_ocr_10.2307_3052555"}
+{"searchstring": "Jane E. Good - America and the Russian Revolutionary Movement, 1888-1905", "date": "1982-7", "filename": "1982_ocr_10.2307_129602"}
+{"searchstring": "Ann Ferguson - Gay Marriage: An American and Feminist Dilemma", "date": "2007-1", "filename": "2007_ocr_10.2307_4640043"}
+{"searchstring": "Antoinette Oberg and  Lonnis McElroy - If a Body Meet a Body...", "date": "1994-7", "filename": "1994_ocr_10.2307_1180119"}
+{"searchstring": "Francis Russell - How I Changed My Mind about the Sacco-Vanzetti Case", "date": "1965-2", "filename": "1965_ocr_10.2307_4610727"}
+{"searchstring": "Maurine Weiner Greenwald - Working-Class Feminism and the Family Wage Ideal: The Seattle Debate on Married Women's Right to Work, 1914-1920", "date": "1989-6", "filename": "1989_ocr_10.2307_1908346"}
+{"searchstring": "John Gardner - Death by Art; Or, "Some Men Kill You with a Six-Gun, Some Men with a Pen"", "date": "1977-7", "filename": "1977_ocr_10.2307_1343059"}
+{"searchstring": " - About the Contributors", "date": "2013-1", "filename": "2013_ocr_10.1086_667760"}
+{"searchstring": "Maxine Greene - Honorable Work and Delayed Awakenings: Education and American Women", "date": "1976-9", "filename": "1976_ocr_10.2307_20298466"}
+{"searchstring": " - referral guide", "date": "1975-1", "filename": "1975_ocr_10.2307_25772059"}
+{"searchstring": "Peter R. D'Agostino - Orthodoxy or Decorum? Missionary Discourse, Religious Representations, and Historical Knowledge", "date": "2003-2", "filename": "2003_ocr_10.2307_4146370"}
+{"searchstring": "Ronald J. Zboray - Antebellum Reading and the Ironies of Technological Innovation", "date": "1988-3", "filename": "1988_ocr_10.2307_2713142"}
+{"searchstring": " - Front Matter", "date": "2011-2", "filename": "2011_ocr_10.5406_femteacher.21.2.i"}
+{"searchstring": "Barbara Allen - By Design: Integrating a feminist perspective into the course Institutional Analysis and Design", "date": "1985-7", "filename": "1985_ocr_10.2307_40545562"}
+{"searchstring": "Lori D. Ginzberg - The Heathen Wing: Reflections on Secular Jewish Traditions", "date": "1998-7", "filename": "1998_ocr_10.2307_40358625"}
+{"searchstring": "Achebe H. Lateef - 'legitimate' feminism", "date": "1979-4", "filename": "1979_ocr_10.2307_25773058"}
+{"searchstring": "Bonnie Honig - Immigrant America? How Foreignness "Solves" Democracy's Problems", "date": "1998-0", "filename": "1998_ocr_10.2307_466763"}
+{"searchstring": "Cedric Watts - Jews and Degenerates in "The Secret Agent"", "date": "2007-4", "filename": "2007_ocr_10.2307_20873595"}
+{"searchstring": "Charlene Haddock Seigfried - The Missing Perspective: Feminist Pragmatism", "date": "1991-0", "filename": "1991_ocr_10.2307_40320343"}
+{"searchstring": "Jane DeLynn - Pleasure Principles", "date": "1998-7", "filename": "1998_ocr_10.2307_4022977"}
+{"searchstring": "Frances Arick Kolb - The Transition from Archives to High School Classroom: Harvard Graduate School Summer Institute", "date": "1988-4", "filename": "1988_ocr_10.2307_40003800"}
+{"searchstring": "Joyce Antler - "After College, What?": New Graduates and the Family Claim", "date": "1980-0", "filename": "1980_ocr_10.2307_2712460"}
+{"searchstring": "Stephen S. Large - The Romance of Revolution in Japanese Anarchism and Communism during the Taishō Period", "date": "1977-1", "filename": "1977_ocr_10.2307_311507"}
+{"searchstring": " - new movement supporters", "date": "1985-4", "filename": "1985_ocr_10.2307_25775439"}
+{"searchstring": " - Contents Index to Volume 20 (2009–2010)", "date": "2010-6", "filename": "2010_ocr_10.5406_femteacher.20.3.0273"}
+{"searchstring": "Ellen Carol Dubois and  Linda Gordon - Seeking Ecstasy on the Battlefield: Danger and Pleasure in Nineteenth-Century Feminist Sexual Thought", "date": "1983-4", "filename": "1983_ocr_10.2307_3177680"}
+{"searchstring": "Gerald Stern - February 22", "date": "2009-1", "filename": "2009_ocr_10.2307_25475690"}
+{"searchstring": "Monica Prasad - The Morality of Market Exchange: Love, Money, and Contractual Justice", "date": "1999-7", "filename": "1999_ocr_10.2307_1389627"}
+{"searchstring": "Lois Rita Helmbold - Beyond the Family Economy: Black and White Working-Class Women during the Great Depression", "date": "1987-0", "filename": "1987_ocr_10.2307_3177885"}
+{"searchstring": "Stephen Eric Bronner - Reconstructing the Experiment: Politics, Ideology, and the American New Left", "date": "1983-2", "filename": "1983_ocr_10.2307_466326"}
+{"searchstring": "Julie Prebel - Engineering Womanhood: The Politics of Rejuvenation in Gertrude Atherton's "Black Oxen"", "date": "2004-6", "filename": "2004_ocr_10.2307_40281673"}
+{"searchstring": " - free", "date": "1971-5", "filename": "1971_ocr_10.2307_25783176"}
+{"searchstring": "Roy Rosenzweig - The Road to Xanadu: Public and Private Pathways on the History Web", "date": "2001-9", "filename": "2001_ocr_10.2307_2675105"}
+{"searchstring": "Mary Beth Caschetta - A Line of E. L. Doctorow", "date": "2004-4", "filename": "2004_ocr_10.2307_20132402"}
+{"searchstring": "Kathy E. Ferguson - Gender and Genre in Emma Goldman", "date": "2011-3", "filename": "2011_ocr_10.1086_657497"}
+{"searchstring": "Celine-Marie Pascale and  Celine-Marie Pacale - All in a Day's Work a Feminist Analysis of Class Formation and Social Identity", "date": "2001-1", "filename": "2001_ocr_10.2307_41674971"}
+{"searchstring": "George Shulman - American Political Culture, Prophetic Narration, and Toni Morrison's Beloved", "date": "1996-5", "filename": "1996_ocr_10.2307_192118"}
+{"searchstring": "Madeline C. Smith and  Richard Eaton - The O'Neill-Komroff Connection: Thirteen Letters from Eugene O'Neill", "date": "1992-0", "filename": "1992_ocr_10.2307_29784455"}
+{"searchstring": "Gilbert Elbaz - Women, AIDS, and Activism Fighting Invisibility", "date": "2003-5", "filename": "2003_ocr_10.2307_20874907"}
+{"searchstring": "Michael Hudson - Henry George's Political Critics", "date": "2008-1", "filename": "2008_ocr_10.2307_27739689"}
+{"searchstring": "Brock Clarke - Compensation", "date": "1998-4", "filename": "1998_ocr_10.2307_40243329"}
+{"searchstring": "Kathryn Kish Sklar - Jane Addams's Peace Activism, 1914-1922: A Model for Women Today", "date": "1995-0", "filename": "1995_ocr_10.2307_40003498"}
+{"searchstring": "Marshall Bruce Gentry - Elusive Villainy: "The Waterworks" as Doctorow's Poesque Preface", "date": "2002-1", "filename": "2002_ocr_10.2307_3201586"}
+{"searchstring": "Carol J. Oja - Composer with a Conscience: Elie Siegmeister in Profile", "date": "1988-7", "filename": "1988_ocr_10.2307_3051547"}
+{"searchstring": "Louise Lamphere - Feminist Anthropology: The Legacy of Elsie Clews Parsons", "date": "1989-8", "filename": "1989_ocr_10.2307_645272"}
+{"searchstring": "Michael Ugarte - Working at a Discount: Class Consciousness in Mercè Rodoreda's "La plaça del Diamant"", "date": "1999-3", "filename": "1999_ocr_10.2307_3251550"}
+{"searchstring": "Edwin R. Bingham - Oregon's Romantic Rebels: John Reed and Charles Erskine Scott Wood", "date": "1959-7", "filename": "1959_ocr_10.2307_40487376"}
+{"searchstring": "Jane Moss - Women's Theater in France", "date": "1987-4", "filename": "1987_ocr_10.2307_3174337"}
+{"searchstring": "Nancy J. Rosenbloom - Between Reform and Regulation: The Struggle over Film Censorship in Progressive America, 1909-1922", "date": "1987-1", "filename": "1987_ocr_10.2307_3814986"}
+{"searchstring": "CLAUDIA CARD - RECOGNIZING TERRORISM", "date": "2007-3", "filename": "2007_ocr_10.2307_20728493"}
+{"searchstring": "Steven T. Bickmore - NEH Seminars: Collaborative Communities for Professional Development", "date": "2005-1", "filename": "2005_ocr_10.2307_30046542"}
+{"searchstring": "Victor Urbanowicz - Personal and Political in "The Dispossessed"", "date": "1978-7", "filename": "1978_ocr_10.2307_4239172"}
+{"searchstring": "Fred D. Ragan - Justice Oliver Wendell Holmes, Jr., Zechariah Chafee, Jr., and the Clear and Present Danger Test for Free Speech: The First Year, 1919", "date": "1971-6", "filename": "1971_ocr_10.2307_1890079"}
+{"searchstring": "William D. Estrada - Los Angeles' Old Plaza and Olvera Street: Imagined and Contested Space", "date": "1999-1", "filename": "1999_ocr_10.2307_1500162"}
+{"searchstring": "William O. Reichert - Toward a New Understanding of Anarchism", "date": "1967-2", "filename": "1967_ocr_10.2307_446687"}
+{"searchstring": "SUSAN J. FERGUSON - AT THE CROSSROADS OF IDENTITY: NEVER MARRIED CHINESE AMERICAN WOMEN", "date": "2008-0", "filename": "2008_ocr_10.2307_23070753"}
+{"searchstring": "Victor Margolin - Rebellion, Reform, and Revolution: American Graphic Design for Social Change", "date": "1988-0", "filename": "1988_ocr_10.2307_1511561"}
+{"searchstring": "Michael S. Kimmel - Men's Responses to Feminism at the Turn of the Century", "date": "1987-9", "filename": "1987_ocr_10.2307_189564"}
+{"searchstring": "Paula J. Giddings - Writing the Outrageous Life: <i>Blanche Wiesen Cook and Eleanor Roosevelt</i>", "date": "2010-4", "filename": "2010_ocr_10.2979_meridians.2010.10.2.96"}
+{"searchstring": "Ben P. Robertson - Annual Bibliography for 2008", "date": "2009-1", "filename": "2009_ocr_10.2307_25735191"}
+{"searchstring": "Amy Ling - Edith Eaton: Pioneer Chinamerican Writer and Feminist", "date": "1983-0", "filename": "1983_ocr_10.2307_27746105"}
+{"searchstring": "Florence Tager - Politics and Culture in Anarchist Education: The Modern School of New York and Stelton, 1911-1915", "date": "1986-2", "filename": "1986_ocr_10.2307_1179429"}
+{"searchstring": "Nomfundo Luphondwana - Race Relations in the Lesbian Movement", "date": "1996-1", "filename": "1996_ocr_10.2307_4065804"}
+{"searchstring": "Penina Migdal Glazer - Organizing for Freedom", "date": "1972-1", "filename": "1972_ocr_10.2307_25088198"}
+{"searchstring": "James E. Fleming - The Role of Government in a Free Society: The Conception of Lester Frank Ward", "date": "1946-3", "filename": "1946_ocr_10.2307_2571476"}
+{"searchstring": "Verta Taylor and  Leila J. Rupp - Women's Culture and Lesbian Feminist Activism: A Reconsideration of Cultural Feminism", "date": "1993-0", "filename": "1993_ocr_10.2307_3174744"}
+{"searchstring": "Charles A. Hale - Frank Tannenbaum and the Mexican Revolution", "date": "1995-5", "filename": "1995_ocr_10.2307_2517305"}
+{"searchstring": "Willa Schneberg - Not the Lecture", "date": "1990-4", "filename": "1990_ocr_10.2307_40357399"}
+{"searchstring": "Geoffrey R. Stone - The Origins of the "Bad Tendency" Test: Free Speech in Wartime", "date": "2002-1", "filename": "2002_ocr_10.2307_3109722"}
+{"searchstring": "Kenneth Barkin - Bismarck in a Postmodern World", "date": "1995-5", "filename": "1995_ocr_10.2307_1431831"}
+{"searchstring": "David J. Bercuson - Through the Looking Glass of Culture: An Essay on the New Labour History and Working-Class Culture in Recent Canadian Historical Writing", "date": "1981-4", "filename": "1981_ocr_10.2307_25140023"}
+{"searchstring": "Jeffrey Wengrofsky - Holy Days and Hallowed Ground: An Episode of Symbolic Reconstruction in the Public Sphere", "date": "1997-1", "filename": "1997_ocr_10.2307_41035531"}
+{"searchstring": "Stephen Halbrook - The Class Origins of Zionist Ideology", "date": "1972-0", "filename": "1972_ocr_10.2307_2535975"}
+{"searchstring": "Carol Rubenstein - THE JEWISH WOMAN: MYSELF AND OTHERS", "date": "1983-0", "filename": "1983_ocr_10.2307_29790099"}
+{"searchstring": "David M. Rabban - The Emergence of Modern First Amendment Doctrine", "date": "1983-0", "filename": "1983_ocr_10.2307_1599474"}
+{"searchstring": "Robert Brent Toplin - Cinematic History: Where Do We Go From Here?", "date": "2003-8", "filename": "2003_ocr_10.1525_tph.2003.25.3.79"}
+{"searchstring": "Richard W. Cox - Adolf Dehn: The Minnesota Connection", "date": "1977-4", "filename": "1977_ocr_10.2307_20178459"}
+{"searchstring": "Stanley Mallach - Red Kate O'Hare Comes to Madison: The Politics of Free Speech", "date": "1970-4", "filename": "1970_ocr_10.2307_4634533"}
+{"searchstring": "Samuel S. Wineburg and  Suzanne M. Wilson - Models of Wisdom in the Teaching of History", "date": "1991-8", "filename": "1991_ocr_10.2307_494699"}
+{"searchstring": "Arthur S. Link - A Decade of Biographical Contributions to Recent American History", "date": "1948-3", "filename": "1948_ocr_10.2307_1902461"}
+{"searchstring": "rebecca sherrick - their fathers' daughters: the autobiographies of jane addams and florence kelley", "date": "1986-4", "filename": "1986_ocr_10.2307_40642094"}
+{"searchstring": "Rochelle Owens - Play: Emma Instigated Me", "date": "1976-4", "filename": "1976_ocr_10.2307_3245191"}
+{"searchstring": "carol anne douglas - Workshop/Fishbowl: The (Gefilte) Fishbowl on Mitzvah Feminism", "date": "1997-8", "filename": "1997_ocr_10.2307_25775931"}
+{"searchstring": "David Der-wei Wang - Impersonating China", "date": "2003-2", "filename": "2003_ocr_10.2307_3594285"}
+{"searchstring": "Richard N. Masteller - Between Silence and Banality: The Poetic Search for Community", "date": "1997-0", "filename": "1997_ocr_10.2307_25112326"}
+{"searchstring": "Martha Vicinus - "They Wonder to Which Sex I Belong": The Historical Roots of the Modern Lesbian Identity", "date": "1992-0", "filename": "1992_ocr_10.2307_3178078"}
+{"searchstring": "Mark Lance - The Significance of Anaphoric Theories of Truth and Reference", "date": "1997-1", "filename": "1997_ocr_10.2307_1523004"}
+{"searchstring": "Vivien Hart - Feminism and Bureaucracy: The Minimum Wage Experiment in the District of Columbia", "date": "1992-4", "filename": "1992_ocr_10.2307_27555587"}
+{"searchstring": "Henry P. Guzda - Keeper of the gate: Ellis Island a welcome site? Only after years of reform", "date": "1986-7", "filename": "1986_ocr_10.2307_41842797"}
+{"searchstring": "Josephine Donovan - Animal Rights and Feminist Theory", "date": "1990-1", "filename": "1990_ocr_10.2307_3174490"}
+{"searchstring": "Vernon Carstensen - Wisconsin Regents: Academic Freedom and Innovation, 1900-1925", "date": "1964-2", "filename": "1964_ocr_10.2307_4634025"}
+{"searchstring": "JOHNNETA B. COLE - BLACK WOMEN IN AMERICA: AN ANNOTATED BIBLIOGRAPHY", "date": "1971-2", "filename": "1971_ocr_10.2307_41203708"}
+{"searchstring": "Brian Holder - Americanization as a Cure for Bolshevism: Anti-Revolutionary Popular Song in 1919", "date": "2007-0", "filename": "2007_ocr_10.2307_40071665"}
+{"searchstring": "Judith Stacey - Not Acquiescence, but Multilingual Resistance", "date": "2006-4", "filename": "2006_ocr_10.2307_40004731"}
+{"searchstring": "Sheila Hickey Garvey - Anna Christie and the "Fallen Woman Genre"", "date": "1995-4", "filename": "1995_ocr_10.2307_29784549"}
+{"searchstring": "ROSEMARY RUETHER - THE FIRST AND FINAL PROLETARIAT: Socialism and Women's Liberation", "date": "1975-0", "filename": "1975_ocr_10.2307_41177963"}
+{"searchstring": "Mary S. Mander - The Journalist as Cynic", "date": "1980-1", "filename": "1980_ocr_10.2307_4638270"}
+{"searchstring": "Lynn Hershman - Touch-Sensitivity and Other Forms of Subversion: Interactive Artwork", "date": "1993-1", "filename": "1993_ocr_10.2307_1576040"}
+{"searchstring": "Candace Falk - Emma Goldman Papers", "date": "1986-0", "filename": "1986_ocr_10.2307_4288738"}
+{"searchstring": "frances chapman and  bernice - a conference is bringing together", "date": "1975-5", "filename": "1975_ocr_10.2307_25772211"}
+{"searchstring": "Julius Ruiz - 'Work and Don't Lose Hope': Republican Forced Labour Camps during the Spanish Civil War", "date": "2009-1", "filename": "2009_ocr_10.2307_40542795"}
+{"searchstring": "Matthew C. Gutmann - Trafficking in Men: The Anthropology of Masculinity", "date": "1997-1", "filename": "1997_ocr_10.2307_2952528"}
+{"searchstring": " - Collected Essays", "date": "1992-2", "filename": "1992_ocr_10.2307_2166153"}
+{"searchstring": "MARILYN KRYSL - Collaboration: Theme and Variations", "date": "1998-9", "filename": "1998_ocr_10.2307_27782798"}
+{"searchstring": "Diane Rothbard Margolis - Considering Women's Experience: A Reformulation of Power Theory", "date": "1989-5", "filename": "1989_ocr_10.2307_657513"}
+{"searchstring": "Gerald Stern - What I Have to Defend, What I Can't Bear Losing", "date": "1993-4", "filename": "1993_ocr_10.2307_40242657"}
+{"searchstring": "Ihab Hassan - Desire and Dissent in the Postmodern Age", "date": "1983-1", "filename": "1983_ocr_10.2307_4335332"}
+{"searchstring": "Arthur W. Thompson - The Reception of Russian Revolutionary Leaders in America, 1904-1906", "date": "1966-0", "filename": "1966_ocr_10.2307_2710848"}
+{"searchstring": "Gloria Greenfield - alpert important", "date": "1975-4", "filename": "1975_ocr_10.2307_25784028"}
+{"searchstring": "J. Kobin - Sisters", "date": "1979-2", "filename": "1979_ocr_10.2307_25089001"}
+{"searchstring": "barbara segal - today bucharest, tomorrow the world", "date": "1975-1", "filename": "1975_ocr_10.2307_25772065"}
+{"searchstring": "Ann Schofield - Rebel Girls and Union Maids: The Woman Question in the Journals of the AFL and IWW, 1905-1920", "date": "1983-7", "filename": "1983_ocr_10.2307_3177496"}
+{"searchstring": "Robin Blaetz - In the Absence of Marjorie Keller", "date": "2005-1", "filename": "2005_ocr_10.2307_40244757"}
+{"searchstring": "Eric Gordon and  Michael M. Hall and  Hobart A. Spalding and  Jr. - A Survey of Brazilian and Argentine Materials at the Internationaal Instituut Voor Sociale Geschiedenis in Amsterdam", "date": "1973-0", "filename": "1973_ocr_10.2307_2502807"}
+{"searchstring": "Kenneth Kolson - NEH Projects Dealing with Women and Politics Themes", "date": "1990-6", "filename": "1990_ocr_10.2307_420069"}
+{"searchstring": "Steven R. Cohen - From Industrial Democracy to Professional Adjustment: The Development of Industrial Sociology in the United States, 1900-1955", "date": "1983-1", "filename": "1983_ocr_10.2307_657203"}
+{"searchstring": "Bonnie G. Smith - The Contribution of Women to Modern Historiography in Great Britain, France, and the United States, 1750-1940", "date": "1984-6", "filename": "1984_ocr_10.2307_1856122"}
+{"searchstring": "Robert DiLorenzo - Teaching Advanced Placement United States History in the Urban, Minority High School: Successful Strategies", "date": "1999-2", "filename": "1999_ocr_10.2307_494440"}
+{"searchstring": "James Reed - Public Policy on Human Reproduction and the Historian", "date": "1985-4", "filename": "1985_ocr_10.2307_3788046"}
+{"searchstring": "Claudia Card - Questions regarding a War on Terrorism", "date": "2003-1", "filename": "2003_ocr_10.2307_3811043"}
+{"searchstring": "Linda Mannheim - Politics", "date": "1991-0", "filename": "1991_ocr_10.2307_40357502"}
+{"searchstring": " - Documents and Bibliographies", "date": "2005-4", "filename": "2005_ocr_10.1086_531504"}
+{"searchstring": "David M. Rabban - The First Amendment in Its Forgotten Years", "date": "1981-1", "filename": "1981_ocr_10.2307_795918"}
+{"searchstring": "Joan M. Jensen - The "Hindu Conspiracy": A Reassessment", "date": "1979-2", "filename": "1979_ocr_10.2307_3638938"}
+{"searchstring": "Truman R. Clark - Prohibition in Puerto Rico, 1917-1933", "date": "1995-2", "filename": "1995_ocr_10.2307_158203"}
+{"searchstring": "Barbara Hooper - "Split at the Roots": A Critique of the Philosophical and Political Sources of Modern Planning Doctrine", "date": "1992-1", "filename": "1992_ocr_10.2307_3346945"}
+{"searchstring": "Larry Peterson - The Intellectual World of the IWW: An American Worker's Library in the First Half of the 20th Century", "date": "1986-0", "filename": "1986_ocr_10.2307_4288723"}
+{"searchstring": "Michael Lynch - "Here Is Adhesiveness": From Friendship to Homosexuality", "date": "1985-0", "filename": "1985_ocr_10.2307_3827566"}
+{"searchstring": "Alice Jardine and  Simone de Beauvoir - Interview with Simone de Beauvoir", "date": "1979-2", "filename": "1979_ocr_10.2307_3173558"}
+{"searchstring": "William N. Eskridge and  Jr. - Some Effects of Identity-Based Social Movements on Constitutional Law in the Twentieth Century", "date": "2002-8", "filename": "2002_ocr_10.2307_1290434"}
+{"searchstring": "Sally M. Miller - The Socialist Party and the Negro, 1901-20", "date": "1971-7", "filename": "1971_ocr_10.2307_2716273"}
+{"searchstring": "Gabriela Stoicea - Re-Producing the Class and Gender Divide: Fritz Lang's Metropolis", "date": "2006-1", "filename": "2006_ocr_10.2307_20688260"}
+{"searchstring": "Kenneth L. Karst - Woman's Constitution", "date": "1984-6", "filename": "1984_ocr_10.2307_1372457"}
+{"searchstring": "Teresa de Lauretis - Sexual Indifference and Lesbian Representation", "date": "1988-5", "filename": "1988_ocr_10.2307_3207654"}
+{"searchstring": "Stanley N. Kinney - The Speaker Ban and Student Organizations at the University of Michigan, 1914-1920", "date": "1956-7", "filename": "1956_ocr_10.2307_3659124"}
+{"searchstring": "Donald Gallup - CARL VAN VECHTEN", "date": "1980-0", "filename": "1980_ocr_10.2307_40858746"}
+{"searchstring": "Mark Starr - In the Beginning — The Word", "date": "1951-7", "filename": "1951_ocr_10.2307_25693579"}
+{"searchstring": "Eric Keenaghan - Life, War, and Love: The Queer Anarchism of Robert Duncan's Poetic Action during the Vietnam War", "date": "2008-2", "filename": "2008_ocr_10.2307_20616404"}
+{"searchstring": "Wilbur R. Jacobs - "It's Your Misfortune and None of My Own"", "date": "1992-4", "filename": "1992_ocr_10.2307_40491270"}
+{"searchstring": "Nancy Folbre - Sleeping Beauty Awakes: Self-Interest, Feminism, and Fertility in the Early Twentieth Century", "date": "2004-7", "filename": "2004_ocr_10.2307_40971699"}
+{"searchstring": "Lisa Unger Baskin and  Susan B. Anthony and  Lucretia Mott and  Frances Ellen Watkins Harper - Am I Not a Woman and a Sister", "date": "1972-1", "filename": "1972_ocr_10.2307_25088200"}
+{"searchstring": "Cristanne Miller - Marianne Moore's Black Maternal Hero: A Study in Categorization", "date": "1989-2", "filename": "1989_ocr_10.2307_489774"}
+{"searchstring": "R. Amy Elman - Testing the Limits of European Citizenship: Ethnic Hatred and Male Violence", "date": "2001-0", "filename": "2001_ocr_10.2307_4316843"}
+{"searchstring": "Peter T. Manicas - John Dewey: Anarchism and the Political State", "date": "1982-4", "filename": "1982_ocr_10.2307_40319958"}
+{"searchstring": "Angus McLaren - Sex Radicalism in the Canadian Pacific Northwest, 1890-1920", "date": "1992-4", "filename": "1992_ocr_10.2307_3704262"}
+{"searchstring": "cathy heifetz - energy-bursts along many lines", "date": "1975-8", "filename": "1975_ocr_10.2307_25784038"}
+{"searchstring": "Robert Young - Compatibilism and Freedom", "date": "1974-1", "filename": "1974_ocr_10.2307_2252794"}
+{"searchstring": "Julia M. Allen - "Dear Comrade": Marian Wharton of the People's College, Fort Scott, Kansas, 1914-1917", "date": "1994-4", "filename": "1994_ocr_10.2307_40003788"}
+{"searchstring": "George B. Hutchinson - Whitman and the Black Poet: Kelly Miller's Speech to the Walt Whitman Fellowship", "date": "1989-3", "filename": "1989_ocr_10.2307_2926518"}
+{"searchstring": "Adeno Addis - Role Models and the Politics of Recognition", "date": "1996-4", "filename": "1996_ocr_10.2307_3312617"}
+{"searchstring": "Laurie Shrage - Should Feminists Oppose Prostitution", "date": "1989-1", "filename": "1989_ocr_10.2307_2381438"}
+{"searchstring": "Susan Wendell - Oppression and Victimization; Choice and Responsibility", "date": "1990-0", "filename": "1990_ocr_10.2307_3809974"}
+{"searchstring": " - Book Notes", "date": "1977-9", "filename": "1977_ocr_10.2307_1901931"}
+{"searchstring": "Harold J. Goldberg - Goldman and Berkman View the Bolshevik Regime", "date": "1975-4", "filename": "1975_ocr_10.2307_4207045"}
+{"searchstring": "Yosal Rogat and  James M. O'Fallon - Mr. Justice Holmes: A Dissenting Opinion. The Speech Cases", "date": "1984-7", "filename": "1984_ocr_10.2307_1228672"}
+{"searchstring": "Bleuwenn Lechaux - Non-Preaching Activism in New York. The Theatrical Militancy of Billionaires for Bush and Reverend Billy", "date": "2010-9", "filename": "2010_ocr_10.2307_40981296"}
+{"searchstring": " - Book Notes", "date": "1971-3", "filename": "1971_ocr_10.2307_1917842"}
+{"searchstring": "Charles A. Madison - Anarchism in the United States", "date": "1945-1", "filename": "1945_ocr_10.2307_2707055"}
+{"searchstring": "Carolyn Stevens - The History of Sexuality in Britain and America, 1800-1975: Course Method and Bill of Rights", "date": "1988-4", "filename": "1988_ocr_10.2307_40003804"}
+{"searchstring": " - Notes [to the Articles within This Issue]", "date": "1990-0", "filename": "1990_ocr_10.2307_25591565"}
+{"searchstring": "Donald Johnson - Wilson, Burleson, and Censorship in the First World War", "date": "1962-2", "filename": "1962_ocr_10.2307_2205532"}
+{"searchstring": "Donna Gabaccia - Immigrant Women: Nowhere at Home?", "date": "1991-7", "filename": "1991_ocr_10.2307_27500871"}
+{"searchstring": "Allen Guttmann - The Conversions of the Jews", "date": "1965-7", "filename": "1965_ocr_10.2307_1207256"}
+{"searchstring": "Susan F. Parsons - Conceiving of God: Theological Arguments and Motives in Feminist Ethics", "date": "2001-2", "filename": "2001_ocr_10.2307_27504209"}
+{"searchstring": "Penny Rosenwasser - festival: Imagine This…", "date": "2002-1", "filename": "2002_ocr_10.2307_20837704"}
+{"searchstring": "Blanche Wiesen Cook - "Women Alone Stir My Imagination": Lesbianism and the Cultural Tradition", "date": "1979-7", "filename": "1979_ocr_10.2307_3173368"}
+{"searchstring": "Mark Letcher - Off the Shelves: Graphically Speaking: Graphic Novels with Appeal for Teens and Teachers", "date": "2008-9", "filename": "2008_ocr_10.2307_40503218"}
+{"searchstring": "Bill Lynskey - "I Shall Speak in Philadelphia": Emma Goldman and the Free Speech League", "date": "2009-4", "filename": "2009_ocr_10.2307_40543455"}
+{"searchstring": "Elisabeth Israels Perry - Men Are from the Gilded Age, Women Are from the Progressive Era", "date": "2002-1", "filename": "2002_ocr_10.2307_25144284"}
+{"searchstring": "Anne Dymond - A Politicized Pastoral: Signac and the Cultural Geography of Mediterranean France", "date": "2003-6", "filename": "2003_ocr_10.2307_3177348"}
+{"searchstring": "Kathleen Tobin-Schlesinger - The Changing American City: Chicago Catholics as Outsiders in the Birth Control Movement, 1915-1935", "date": "1997-4", "filename": "1997_ocr_10.2307_25154584"}
+{"searchstring": "Lori Marso - The Perversions of Bored Liberals: Response to Herzog", "date": "2008-2", "filename": "2008_ocr_10.2307_20452613"}
+{"searchstring": "Alice T. Friedman - A House Is Not a Home: Hollyhock House as "Art-Theater Garden"", "date": "1992-9", "filename": "1992_ocr_10.2307_990686"}
+{"searchstring": "Samuel S. Wineburg and  Suzanne M. Wilson - Models of Wisdom in the Teaching of History", "date": "1988-9", "filename": "1988_ocr_10.2307_20403803"}
+{"searchstring": "Peter Beilharz - The Amsterdam Archive", "date": "1990-5", "filename": "1990_ocr_10.2307_27508986"}
+{"searchstring": "André Liebich - At Home Abroad: The Mensheviks in the Second Emigration", "date": "1995-3", "filename": "1995_ocr_10.2307_40870666"}
+{"searchstring": "Dimitri von Mohrenschildt - Reformers and Radicals in Pre-World War I America", "date": "1958-4", "filename": "1958_ocr_10.2307_126028"}
+{"searchstring": "Robert A. Rosenstone* - Reds as History", "date": "1982-9", "filename": "1982_ocr_10.2307_2702489"}
+{"searchstring": " - Forum", "date": "1995-7", "filename": "1995_ocr_10.2307_3432852"}
+{"searchstring": "James E. Boasberg - Seditious Libel v Incitement to Mutiny: Britain Teaches Hand and Holmes a Lesson", "date": "1990-4", "filename": "1990_ocr_10.2307_764383"}
+{"searchstring": "Michael Lonardo - The International Labour and Radical History Pamphlet Collection at Memorial University of Newfoundland", "date": "1994-0", "filename": "1994_ocr_10.2307_25143851"}
+{"searchstring": "GRACE L. MILLER - The I.W.W. Free Speech Fight: San Diego, 1912", "date": "1972-0", "filename": "1972_ocr_10.2307_41170433"}
+{"searchstring": "Barbara Browning - Incessant Daily Negotiations: Bill T. Jones's "Floating the Tongue"", "date": "2005-7", "filename": "2005_ocr_10.2307_4488643"}
+{"searchstring": "peggy kornegger - red emma", "date": "1975-1", "filename": "1975_ocr_10.2307_25772071"}
+{"searchstring": "Jonathan Auerbach - McKinley at Home: How Early American Cinema Made News", "date": "1999-2", "filename": "1999_ocr_10.2307_30041673"}
+{"searchstring": "Donna R. Gabaccia and  Vicki L. Ruiz - Migrations and Destinations: Reflections on the Histories of U.S. Immigrant Women", "date": "2006-0", "filename": "2006_ocr_10.2307_27501778"}
+{"searchstring": "James Olney - The Autobiography of America", "date": "1991-7", "filename": "1991_ocr_10.2307_490058"}
+{"searchstring": "LESLIE FISHBEIN - The Paterson Pageant (1913): The Birth of Docudrama as a Weapon in the Class Struggle", "date": "1991-4", "filename": "1991_ocr_10.2307_23178785"}
+{"searchstring": "DAVID M. ORENSTEIN and  PAUL C. LUKEN - Anarchistic Methodology: Methodological Anti-Authoritarianism as a Resolution to Paradigmatic Disputes in the Social Sciences", "date": "1978-1", "filename": "1978_ocr_10.2307_20831069"}
+{"searchstring": "B. D. S. - THE HARRY WEINBERGER MEMORIAL COLLECTION", "date": "1945-1", "filename": "1945_ocr_10.2307_40857235"}
+{"searchstring": "Jacqueline Stevens and  Rogers Smith - Beyond Tocqueville, Please!", "date": "1995-2", "filename": "1995_ocr_10.2307_2082522"}
+{"searchstring": "Isaac Kramnick - On Anarchism and the Real World: William Godwin and Radical England", "date": "1972-3", "filename": "1972_ocr_10.2307_1959281"}
+{"searchstring": "Michael Burawoy and  Peter Evans and  Angela Harris and  Dawne Moon and  Erik Olin Wright - [Roundtable Discussion:] Possibilities for Socialism in the Twenty-first Century", "date": "2006-1", "filename": "2006_ocr_10.2307_41035616"}
+{"searchstring": "Donna Gabaccia and  Franca Iacovetta and  Fraser Ottanelli - Laboring across National Borders: Class, Gender, and Militancy in the Proletarian Mass Migrations", "date": "2004-0", "filename": "2004_ocr_10.2307_27672958"}
+{"searchstring": "Vivien Green Fryd - Edward Hopper's "Girlie Show": Who Is the Silent Partner?", "date": "2000-7", "filename": "2000_ocr_10.2307_3109333"}
+{"searchstring": "Robert Tuttle - THE APPEAL TO REASON AND THE FAILURE OF THE SOCIALIST PARTY IN 1912", "date": "1983-4", "filename": "1983_ocr_10.2307_23252864"}
+{"searchstring": "Murray Edelman and  Rita James Simon - Presidential Assassinations: Their Meaning and Impact on American Society", "date": "1969-4", "filename": "1969_ocr_10.2307_2379843"}
+{"searchstring": "LORETTA KENSINGER - Radical Lessons: Thoughts on Emma Goldman, Chaos, Grief, and Political Violence Post–9/11/01", "date": "2009-1", "filename": "2009_ocr_10.5406_femteacher.20.1.0050"}
+{"searchstring": "C. Alison McIntosh and  Jason L. Finkle - The Cairo Conference on Population and Development: A New Paradigm?", "date": "1995-6", "filename": "1995_ocr_10.2307_2137493"}
+{"searchstring": "Lynne M. Adrian - Social History Update: An American Studies Contribution to Social History", "date": "1990-7", "filename": "1990_ocr_10.2307_3787700"}
+{"searchstring": " - Documents and Bibliographies", "date": "2003-0", "filename": "2003_ocr_10.1086_529964"}
+{"searchstring": "Roseanne Giannini Quinn - "The Willingness to Speak": Diane di Prima and Italian American Feminist Body Politics", "date": "2003-0", "filename": "2003_ocr_10.2307_3595266"}
+{"searchstring": "Doris M. Alexander - Hugo of the Iceman Cometh: Realism and O'Neill", "date": "1953-2", "filename": "1953_ocr_10.2307_3031329"}
+{"searchstring": "Janet Zandy - Fire Poetry on the Triangle Shirtwaist Company Fire of March 25, 1911", "date": "1997-0", "filename": "1997_ocr_10.2307_25112327"}
+{"searchstring": "Paul A. Goble - Samuel N. Harper and the Study of Russia: His Career and Collection", "date": "1973-0", "filename": "1973_ocr_10.2307_20169676"}
+{"searchstring": "Richard Porton - ANARCHISTS ON FILM: From Mad Bombers to Secular Saints", "date": "1999-1", "filename": "1999_ocr_10.2307_41689135"}
+{"searchstring": "Claudia Collier-Seiter and  David M. Seiter - Letters: Windows to the Past", "date": "1992-4", "filename": "1992_ocr_10.2307_25154087"}
+{"searchstring": "Daniel Tobin - Modernism, Leftism, and the Spirit: The Poetry of Lola Ridge", "date": "2004-0", "filename": "2004_ocr_10.2307_20557957"}
+{"searchstring": "STEVEN C. LEVI - The Trial of William McDevitt", "date": "1977-0", "filename": "1977_ocr_10.2307_41170715"}
+{"searchstring": "William Cohen - Riots, Racism, and Hysteria: The Response of Federal Investigative Officials to the Race Riots of 1919", "date": "1972-7", "filename": "1972_ocr_10.2307_25088251"}
+{"searchstring": "Florence Tager - A Radical Culture for Children of the Working Class: "The Young Socialists' Magazine, 1908-1920"", "date": "1992-0", "filename": "1992_ocr_10.2307_1179841"}
+{"searchstring": "Richard N. Masteller - Using Brancusi: Three Writers, Three Magazines, Three Versions of Modernism", "date": "1997-4", "filename": "1997_ocr_10.2307_3109260"}
+{"searchstring": "John Patrick Diggins - Sidney Hook", "date": "1987-0", "filename": "1987_ocr_10.2307_25007056"}
+{"searchstring": "Chicken Lady - [CHICKEN LADY]: droppings", "date": "1971-1", "filename": "1971_ocr_10.2307_25771363"}
+{"searchstring": "Paul F. Bourke - The Social Critics and the End of American Innocence: 1907—1921", "date": "1969-7", "filename": "1969_ocr_10.2307_27552864"}
+{"searchstring": "Blanche Wiesen Cook and  Sandi E. Cooper - Militarism, Pacifism, and Feminism in Modern History", "date": "1995-0", "filename": "1995_ocr_10.2307_40003519"}
+{"searchstring": "Cara-Lynn Ungar - Discourses of Class and the New Jewish Working Woman in Anzia Yezierska's Arrogant Beggar", "date": "1999-1", "filename": "1999_ocr_10.2307_25679291"}
+{"searchstring": "GERALD STERN and  Gary Pacernick - An Interview by Gary Pacernick", "date": "1998-7", "filename": "1998_ocr_10.2307_27782755"}
+{"searchstring": "George Elison - Kōtoku Shūsui. The Change in Thought", "date": "1967-1", "filename": "1967_ocr_10.2307_2383076"}
+{"searchstring": "John Sayer - Art and Politics, Dissent and Repression: The Masses Magazine versus the Government, 1917-1918", "date": "1988-1", "filename": "1988_ocr_10.2307_845994"}
+{"searchstring": " - drippings...", "date": "1979-7", "filename": "1979_ocr_10.2307_25773134"}
+{"searchstring": "Colleen McGuire and  Rebecca Gaspard - part of the nation", "date": "1994-6", "filename": "1994_ocr_10.2307_20834822"}
+{"searchstring": "fran moira - sponges vs. tampons: nobody wins", "date": "1980-2", "filename": "1980_ocr_10.2307_25773388"}
+{"searchstring": "Leon Friedman - Conscription and the Constitution: The Original Understanding", "date": "1969-6", "filename": "1969_ocr_10.2307_1287481"}
+{"searchstring": "Gail Pheterson - The Whore Stigma: Female Dishonor and Male Unworthiness", "date": "1993-2", "filename": "1993_ocr_10.2307_466259"}
+{"searchstring": "Doug Rossinow - The Radicalization of the Social Gospel: Harry F. Ward and the Search for a New Social Order, 1898–1936", "date": "2005-1", "filename": "2005_ocr_10.1525_rac.2005.15.1.63"}
+{"searchstring": "WILLIAM H. SIENER - The Red Scare Revisited: Radicals and the Anti-Radical Movement in Buffalo, 1919-1920", "date": "1998-1", "filename": "1998_ocr_10.2307_23182288"}
+{"searchstring": " - Correction to Hyett", "date": "1991-1", "filename": "1991_ocr_10.2307_4021131"}
+{"searchstring": "Robert S. Jansen - Resurrection and Appropriation: Reputational Trajectories, Memory Work, and the Political Use of Historical Figures", "date": "2007-1", "filename": "2007_ocr_10.1086_508789"}
+{"searchstring": "Gilbert Elbaz - Beyond Anger: The Activist Construction of the AIDS Crisis", "date": "1995-2", "filename": "1995_ocr_10.2307_29766907"}
+{"searchstring": "Charles P. Lewarne - The Anarchist Colony at Home, Washington, 1901-1902", "date": "1972-7", "filename": "1972_ocr_10.2307_40168070"}
+{"searchstring": "Esther McCoy - Patchin Place: A Memoir", "date": "1985-0", "filename": "1985_ocr_10.2307_25006807"}
+{"searchstring": "Kathleen Kennedy - Casting An Evil Eye on the Youth of the Nation: Motherhood and Political Subversion in the Wartime Prosecution of Kate Richards O'Hare, 1917-1924", "date": "1998-0", "filename": "1998_ocr_10.2307_40642982"}
+{"searchstring": "James E. Hassell - Russian Refugees in France and the United States between the World Wars", "date": "1991-1", "filename": "1991_ocr_10.2307_1006535"}
+{"searchstring": "David Matza - Subterranean Traditions of Youth", "date": "1961-1", "filename": "1961_ocr_10.2307_1034671"}
+{"searchstring": "Susan Leigh Foster - Choreographies of Gender", "date": "1998-0", "filename": "1998_ocr_10.2307_3175670"}
+{"searchstring": "Joan M. Jensen - The Evolution of Margaret Sanger's "Family Limitation" Pamphlet, 1914-1921", "date": "1981-4", "filename": "1981_ocr_10.2307_3173773"}
+{"searchstring": "Roy Rosenzweig - What Is the Matter with History?", "date": "1987-6", "filename": "1987_ocr_10.2307_1908510"}
+{"searchstring": "Christina Dunbar-Hester - Geeks, Meta-Geeks, and Gender Trouble: Activism, Identity, and Low-Power FM Radio", "date": "2008-4", "filename": "2008_ocr_10.2307_25474574"}
+{"searchstring": "Paul A. Shackel and  Michael Roller - The Gilded Age Wasn't So Gilded in the Anthracite Region of Pennsylvania", "date": "2012-2", "filename": "2012_ocr_10.2307_23355817"}
+{"searchstring": "Martha A. Ackelsberg - "Separate and Equal"? Mujeres Libres and Anarchist Strategy for Women's Emancipation", "date": "1985-4", "filename": "1985_ocr_10.2307_3180133"}
+{"searchstring": "Victoria Brady and  Sarah Crome and  Lyn Reese - Resist! Survival Tactics of Indian Women", "date": "1984-4", "filename": "1984_ocr_10.2307_25158208"}
+{"searchstring": "Kyle R. Jansson - The Changing Climate of Oregon's Driest Town: Monmouth's Prohibition Ordinances, 1859-2001", "date": "2001-0", "filename": "2001_ocr_10.2307_20615160"}
+{"searchstring": "D. Owen Carrigan - A Forgotten Yankee Marxist", "date": "1969-3", "filename": "1969_ocr_10.2307_363498"}
+{"searchstring": "Alexander Rabinowitch and  Maria Spiridonova - Maria Spiridonova's "Last Testament"", "date": "1995-7", "filename": "1995_ocr_10.2307_131440"}
+{"searchstring": "Kim Martin Long - Selected Scholarship 1999—2003", "date": "2003-1", "filename": "2003_ocr_10.2307_20771163"}
+{"searchstring": "Katalin Orbán - Trauma and Visuality: Art Spiegelman's Maus and <i>In the Shadow of No Towers</i>", "date": "2007-2", "filename": "2007_ocr_10.1525_rep.2007.97.1.57"}
+{"searchstring": "Barry Targan - Meisner Agonistes", "date": "1990-7", "filename": "1990_ocr_10.2307_27546235"}
+{"searchstring": " - About the Contributors", "date": "2011-3", "filename": "2011_ocr_10.1086_657661"}
+{"searchstring": "Jeannette A. Bastian - Flowers for Homestead: A Case Study in Archives and Collective Memory", "date": "2009-4", "filename": "2009_ocr_10.2307_40294598"}
+{"searchstring": "Andrea Graziosi - Foreign Workers in Soviet Russia, 1920-40: Their Experience and Their Legacy", "date": "1988-4", "filename": "1988_ocr_10.2307_27671737"}
+{"searchstring": "Louis Hartz - The Coming of Age of America", "date": "1957-6", "filename": "1957_ocr_10.2307_1952203"}
+{"searchstring": "Geoffrey C. Fidler - The Escuela Moderna Movement of Francisco Ferrer: "Por la Verdad y la Justicia"", "date": "1985-4", "filename": "1985_ocr_10.2307_368893"}
+{"searchstring": "Eileen Hunt Botting and  Christine Carey - Wollstonecraft's Philosophical Impact on Nineteenth-Century American Women's Rights Advocates", "date": "2004-0", "filename": "2004_ocr_10.2307_1519929"}
+{"searchstring": "Clarke A. Chambers - Women in the Creation of the Profession of Social Work", "date": "1986-3", "filename": "1986_ocr_10.2307_30011832"}
+{"searchstring": "Michael Munk - Oregon Voices: The Romance of John Reed and Louise Bryant: New Documents Clarify How They Met", "date": "2008-0", "filename": "2008_ocr_10.2307_20615880"}
+{"searchstring": "Peter Waterman - Hidden from Herstory: Women, Feminism and New Global Solidarity", "date": "1993-0", "filename": "1993_ocr_10.2307_4400349"}
+{"searchstring": " - Notes [to the Articles within This Issue]", "date": "1997-4", "filename": "1997_ocr_10.2307_25161652"}
+{"searchstring": "Lubomír Doležel - Possible Worlds of Fiction and History", "date": "1998-0", "filename": "1998_ocr_10.2307_20057512"}
+{"searchstring": "Esther Broner and  Nancy Jo (Jody) Hoy - Of Holy Writing & Priestly Voices: A Talk with Esther Broner", "date": "1983-7", "filename": "1983_ocr_10.2307_25089418"}
+{"searchstring": "Gail Levin - Censorship, Politics and Sexual Imagery in the Work of Jewish-American Feminist Artists", "date": "2007-0", "filename": "2007_ocr_10.2979_NAS.2007.-.14.63"}
+{"searchstring": "Stephen Stagner - The Recall of Judicial Decisions and the Due Process Debate", "date": "1980-7", "filename": "1980_ocr_10.2307_844667"}
+{"searchstring": "ANDREW LONG - THE SECRET POLICEMAN'S COUCH: INFORMING, CONFESSION, AND INTERPELLATION IN CONRAD'S "UNDER WESTERN EYES"", "date": "2003-2", "filename": "2003_ocr_10.2307_29533601"}
+{"searchstring": "Elizabeth Fox-Genovese - Comment on the Reviews of "Woman's Body, Woman's Right"", "date": "1979-7", "filename": "1979_ocr_10.2307_3173382"}
+{"searchstring": "Philip Monrad - Ideological Exclusion, Plenary Power, and the PLO", "date": "1989-7", "filename": "1989_ocr_10.2307_3480525"}
+{"searchstring": "Mary-Sherman Willis - Cervical Caps: Old and Yet Too New", "date": "1979-2", "filename": "1979_ocr_10.2307_3964391"}
+{"searchstring": "Thyme S. Siegel - The Lost Tribe", "date": "1995-2", "filename": "1995_ocr_10.2307_40357687"}
+{"searchstring": "John P. Clark - Rejoinder to "Comment" by Isaac Kramnick", "date": "1975-3", "filename": "1975_ocr_10.2307_1957896"}
+{"searchstring": "George Piggford - "In Time of Plague": AIDS and Its Significations in Hervé Guibert, Tony Kushner, and Thom Gunn", "date": "2000-1", "filename": "2000_ocr_10.2307_1354606"}
+{"searchstring": "Susan Groves - A High School Women's Studies Seminar: Three Teaching Units", "date": "2000-0", "filename": "2000_ocr_10.2307_40005490"}
+{"searchstring": "Lorraine Gamman and  Gilda O'Neill - Oxford Twenty Years on: Where Are We Now?", "date": "1990-0", "filename": "1990_ocr_10.2307_1395116"}
+{"searchstring": "Martin Duberman - An Experiment in Education", "date": "1968-1", "filename": "1968_ocr_10.2307_20023811"}
+{"searchstring": "Martin Kallich - John Dos Passos: Liberty and the Father-Image", "date": "1950-4", "filename": "1950_ocr_10.2307_4609398"}
+{"searchstring": "Paul Goldman and  Donald R. Van Houten - Managerial Strategies and the Worker: A Marxist Analysis of Bureaucracy", "date": "1977-1", "filename": "1977_ocr_10.2307_4105566"}
+{"searchstring": " - Book Notes", "date": "1984-6", "filename": "1984_ocr_10.2307_1899918"}
+{"searchstring": "Anna Shannon Elfenbein and  Linda E. Lucas and  Barbara C. Ewell and  Kathryn Cirksena and  Margaret McFadden - Taking on the World: U.S. Women Fulbrighters", "date": "1998-4", "filename": "1998_ocr_10.2307_4316554"}
+{"searchstring": "Steven Seidman - The Political Unconscious of the Human Sciences", "date": "1996-0", "filename": "1996_ocr_10.2307_4121411"}
+{"searchstring": "Shaun O'Connell - American Fiction, 1975: Celebration in Wonderland", "date": "1976-4", "filename": "1976_ocr_10.2307_25088619"}
+{"searchstring": "Frederick C. Giffin - The Radical Vision of Helen Keller", "date": "1984-0", "filename": "1984_ocr_10.2307_41881574"}
+{"searchstring": "GERALD STERN and  Mark Hillringhouse - GERALD STERN: An Interview", "date": "1984-3", "filename": "1984_ocr_10.2307_40742304"}
+{"searchstring": "GERALD STERN - notes from the river: A COLUMN", "date": "1979-5", "filename": "1979_ocr_10.2307_27776188"}
+{"searchstring": "H. M. Douty - A Review Essay: The Word and the Deed—Anarchism Revisited", "date": "1966-1", "filename": "1966_ocr_10.2307_41836253"}
+{"searchstring": "Hayden Carruth - Clarification", "date": "2001-7", "filename": "2001_ocr_10.2307_27783798"}
+{"searchstring": "Patricia Zavella - "Abnormal Intimacy": The Varying Work Networks of Chicana Cannery Workers", "date": "1985-0", "filename": "1985_ocr_10.2307_3180117"}
+{"searchstring": "Joanna Bornat - Women's History and Oral History: An Outline Bibliography", "date": "1977-0", "filename": "1977_ocr_10.2307_40178504"}
+{"searchstring": "Sabine Vanacker - LITERATURE", "date": "1995-1", "filename": "1995_ocr_10.2307_25832710"}
+{"searchstring": "Don Herzog - Politics, Gender, and (Melo)drama: Reply to Marso", "date": "2008-2", "filename": "2008_ocr_10.2307_20452614"}
+{"searchstring": "Alan Ball - Lenin and the Question of Private Trade in Soviet Russia", "date": "1984-0", "filename": "1984_ocr_10.2307_2499398"}
+{"searchstring": "Peter Sedgwick - The Unhappy Elitist: Victor Serge's Early Bolshevism", "date": "1984-4", "filename": "1984_ocr_10.2307_4288550"}
+{"searchstring": "Patricia Bizzell - Fredric Jameson and Composition Studies", "date": "1996-1", "filename": "1996_ocr_10.2307_20866094"}
+{"searchstring": "Linda Gordon - Black and White Visions of Welfare: Women's Welfare Activism, 1890-1945", "date": "1991-9", "filename": "1991_ocr_10.2307_2079534"}
+{"searchstring": "Michael E. Deutsch - The Improper Use of the Federal Grand Jury: An Instrument for the Internment of Political Activists", "date": "1984-2", "filename": "1984_ocr_10.2307_1143382"}
+{"searchstring": "Alissa Karl - Modernism's Risky Business: Gertrude Stein, Sylvia Beach, and American Consumer Capitalism", "date": "2008-3", "filename": "2008_ocr_10.2307_40282001"}
+{"searchstring": "Tong Zhang and  Barry Schwartz - Confucius and the Cultural Revolution: A Study in Collective Memory", "date": "1997-2", "filename": "1997_ocr_10.2307_20019932"}
+{"searchstring": "Harriet Alonso and  Melanie Gustafson - Bibliography on the History of U.S. Women in Movements for Peace", "date": "1984-7", "filename": "1984_ocr_10.2307_40004323"}
+{"searchstring": "LEON LITWACK and  Shane White and  Shane White and  Ian Hoskins - WRITING THE PEOPLE'S HISTORY: AN INTERVIEW WITH LEON LITWACK", "date": "1991-2", "filename": "1991_ocr_10.2307_41053605"}
+{"searchstring": "CHARLES MOLESWORTH and  ROBERT BOYERS and  RONALD RADOSH and  LARRY NACHMAN and  LARRY D. NACHMAN and  ROBERT BOYERS and  BENJAMIN BARBER - Two Responses To Ellen Willis", "date": "1989-4", "filename": "1989_ocr_10.2307_40548070"}
+{"searchstring": "David Held - Markets, Private Property and the Possibility of Democracy", "date": "1995-5", "filename": "1995_ocr_10.2307_41802020"}
+{"searchstring": "Gene H. Bell-Villada - Critical Appraisals of American Education: Dilemmas and Contradictions in the Work of Hirsch and Bloom", "date": "1990-7", "filename": "1990_ocr_10.2307_20006968"}
+{"searchstring": "t. d. - abortion update", "date": "1978-7", "filename": "1978_ocr_10.2307_25792787"}
+{"searchstring": " - Doctoral Dissertations in American Studies, 1990-1991", "date": "1991-2", "filename": "1991_ocr_10.2307_2713090"}
+{"searchstring": "Emily Murdock - Review", "date": "2011-2", "filename": "2011_ocr_10.5406_femteacher.21.2.0160"}
+{"searchstring": "Marcia M. Gallo - Different Daughters", "date": "2006-3", "filename": "2006_ocr_10.2307_25162030"}
+{"searchstring": "Sheldon Grebstein - The Education of a Rebel: Sinclair Lewis at Yale", "date": "1955-9", "filename": "1955_ocr_10.2307_362650"}
+{"searchstring": "Louis Filler - East and Middle West: Concepts of Liberalism in America during the Late Nineteenth Century", "date": "1952-1", "filename": "1952_ocr_10.2307_3483358"}
+{"searchstring": "Nan Bauer Maglin - Vida to Florence: "Comrade and Companion"", "date": "1979-0", "filename": "1979_ocr_10.2307_3346143"}
+{"searchstring": "Rachel Lederman and  Joanne Tribble - anti-sponge stories full of holes [with response]", "date": "1981-3", "filename": "1981_ocr_10.2307_25793644"}
+{"searchstring": "Jennifer Ratner-Rosenhagen - Conventional Iconoclasm: The Cultural Work of the Nietzsche Image in Twentieth-Century America", "date": "2006-2", "filename": "2006_ocr_10.2307_4486411"}
+{"searchstring": "Isaac Kramnick - Comment on Clark's "On Anarchism in an Unreal World"", "date": "1975-3", "filename": "1975_ocr_10.2307_1957895"}
+{"searchstring": "Estelle B. Freedman - Sexuality in Nineteenth-Century America: Behavior, Ideology, and Politics", "date": "1982-2", "filename": "1982_ocr_10.2307_2701827"}
+{"searchstring": "John Lennon - <b>Can a Hobo Share a Box-Car? Jack London, the Industrial Army, and the Politics of (In)visibility</b>", "date": "2007-2", "filename": "2007_ocr_10.2307_40644104"}
+{"searchstring": "Peter Conolly-Smith - "Reading Between the Lines": The Bureau of Investigation, the United States Post Office, and Domestic Surveillance During World War I", "date": "2009-1", "filename": "2009_ocr_10.2307_29768523"}
+{"searchstring": "Judith M. Stanley - A Sound Rendering of Women's History", "date": "1973-8", "filename": "1973_ocr_10.2307_492448"}
+{"searchstring": "R. Laurence Moore - Insiders and Outsiders in American Historical Narrative and American History", "date": "1982-4", "filename": "1982_ocr_10.2307_1870125"}
+{"searchstring": "John Hutton - Camile Pissarro's Turpitudes Sociales and Late Nineteenth-Century French Anarchist Anti-Feminism", "date": "1987-0", "filename": "1987_ocr_10.2307_4288780"}
+{"searchstring": "Robert K. Murray - THE OUTER WORLD AND THE INNER LIGHT: A CASE STUDY", "date": "1969-7", "filename": "1969_ocr_10.2307_27771791"}
+{"searchstring": "sarie feld and  sheri maeda - holly near", "date": "1982-2", "filename": "1982_ocr_10.2307_25774763"}
+{"searchstring": "James N. Westerhoven - Autobiographical Elements in the Camera Eye", "date": "1976-1", "filename": "1976_ocr_10.2307_2924869"}
+{"searchstring": "Richard Cox - Adolf Dehn: Satirist of the Jazz Age", "date": "1978-1", "filename": "1978_ocr_10.2307_1557409"}
+{"searchstring": "W. J. T. Mitchell - Image, Space, Revolution: The Arts of Occupation", "date": "2012-9", "filename": "2012_ocr_10.1086_668048"}
+{"searchstring": "R. Christian Johnson - Feminism, Philanthropy and Science in the Development of The Oral Contraceptive Pill", "date": "1977-1", "filename": "1977_ocr_10.2307_41109030"}
+{"searchstring": " - free", "date": "1971-4", "filename": "1971_ocr_10.2307_25783143"}
+{"searchstring": "Dennis Hodgson and  Susan Cotts Watkins - Feminists and Neo-Malthusians: Past and Present Alliances", "date": "1997-9", "filename": "1997_ocr_10.2307_2137570"}
+{"searchstring": "Mary Lowenthal Felstiner - Seeing "The Second Sex" through the Second Wave", "date": "1980-7", "filename": "1980_ocr_10.2307_3177741"}
+{"searchstring": "Charles Van Onselen - Jewish Police Informers in the Atlantic World, 1880-1914", "date": "2007-3", "filename": "2007_ocr_10.2307_4140168"}
+{"searchstring": "T. J. Jackson Lears - Ambivalent Victorian: H. L. Mencken", "date": "1989-4", "filename": "1989_ocr_10.2307_40257496"}
+{"searchstring": "Mark E. Warren - Reply to Ruth Abbey and Fredrick Appel", "date": "1999-2", "filename": "1999_ocr_10.2307_192164"}
+{"searchstring": "Edward T. Mackin and  William C. McCoy and  Jr. and  Warren E. Burger and  Louis Robertson and  Godfrey K. Preiser and  Jr. and  Felix F. Stumpf and  John E. Sato and  Harry G. Liese - Views of Our Readers", "date": "1954-2", "filename": "1954_ocr_10.2307_25719018"}
+{"searchstring": "Dorothy Gallagher - Two Radicals", "date": "1986-7", "filename": "1986_ocr_10.2307_25006913"}
+{"searchstring": "Jane Greer - Refiguring Authorship, Ownership, and Textual Commodities: Meridel Le Sueur's Pedagogical Legacy", "date": "2003-7", "filename": "2003_ocr_10.2307_3594273"}
+{"searchstring": "Dennis Hodgson - The Ideological Origins of the Population Association of America", "date": "1991-3", "filename": "1991_ocr_10.2307_1972350"}
+{"searchstring": "Sherry L. Smith - Reimagining the Indian: Charles Erskine Scott Wood and Frank Linderman", "date": "1996-7", "filename": "1996_ocr_10.2307_40491642"}
+{"searchstring": "Stephen M. Walt - Revolution and War", "date": "1992-4", "filename": "1992_ocr_10.2307_2010542"}
+{"searchstring": "Carlos A. Schwantes - Free Love and Free Speech on the Pacific Northwest Frontier: Proper Victorians vs. Portland's "Filthy Firebrand"", "date": "1981-0", "filename": "1981_ocr_10.2307_20613790"}
+{"searchstring": "Virginia Gardner - John Reed and Lenin: Some Insights Based on MSS. Collection at Harvard", "date": "1967-0", "filename": "1967_ocr_10.2307_40401306"}
+{"searchstring": "Janice A. Jipson and  Nicholas Paley - Is There a Base to Today's Literature-Based Reading Programs?", "date": "1992-5", "filename": "1992_ocr_10.2307_40172778"}
+{"searchstring": "William O. Reichert - The Melancholy Political Thought of Morrison I. Swift", "date": "1976-2", "filename": "1976_ocr_10.2307_364733"}
+{"searchstring": "Patricia Meyer Spacks - Women's Stories, Women's Selves", "date": "1977-4", "filename": "1977_ocr_10.2307_3850649"}
+{"searchstring": "Aurele J. Violette - William Dudley Foulke and Russia", "date": "1986-3", "filename": "1986_ocr_10.2307_27790949"}
+{"searchstring": "Margaret Urban Walker - Diotima's Ghost: The Uncertain Place of Feminist Philosophy in Professional Philosophy", "date": "2005-7", "filename": "2005_ocr_10.2307_3811120"}
+{"searchstring": "Anna M. Zajicek and  Allyn Lord and  Lori Holyfield - The Emergence and First Years of a Grassroots Women's Movement in Northwest Arkansas, 1970-1980", "date": "2003-7", "filename": "2003_ocr_10.2307_40023231"}
+{"searchstring": "Alden Waitt - Katharine Anthony: Feminist Biographer with the "Warmth of an Advocate"", "date": "1988-1", "filename": "1988_ocr_10.2307_3345943"}
+{"searchstring": "Rhoda Kadalie - The F-Word", "date": "1995-1", "filename": "1995_ocr_10.2307_4065852"}
+{"searchstring": "Drika Purves - The Gazette", "date": "1982-0", "filename": "1982_ocr_10.2307_40858800"}
+{"searchstring": "ANTHONY ASHBOLT - LOVE AND HATE IN EUROPEAN EYES : EMMA GOLDMAN AND ALEXANDER BERKMAN ON AMERICA", "date": "2003-7", "filename": "2003_ocr_10.2307_41415979"}
+{"searchstring": " - Jewish Women Watching", "date": "2006-0", "filename": "2006_ocr_10.2307_40358090"}
+{"searchstring": "Christina Simmons - African Americans and Sexual Victorianism in the Social Hygiene Movement, 1910-40", "date": "1993-7", "filename": "1993_ocr_10.2307_3704179"}
+{"searchstring": "Stephen White - British Labour in Soviet Russia, 1920", "date": "1994-6", "filename": "1994_ocr_10.2307_572911"}
+{"searchstring": "Erica Rand - I WANTED BLACK SKATES: GENDER, CASH, PLEASURE, AND THE POLITICS OF CRITICISM", "date": "2008-0", "filename": "2008_ocr_10.2307_23130876"}
+{"searchstring": "Carol Lasser - Century of Struggle, Decades of Revision: A Retrospective on Eleanor Flexner's Suffrage History", "date": "1987-6", "filename": "1987_ocr_10.2307_2702191"}
+{"searchstring": "Arvonne S. Fraser - Becoming Human: The Origins and Development of Women's Human Rights", "date": "1999-1", "filename": "1999_ocr_10.2307_762751"}
+{"searchstring": "Jane Sherron De Hart - Celebrating and Becoming Blanche Wiesen Cook", "date": "2010-4", "filename": "2010_ocr_10.2979_meridians.2010.10.2.68"}
+{"searchstring": "Barbara Richardson - Ellen Swallow Richards: "Humanistic Oekologist," "Applied Sociologist," and the Founding of Sociology", "date": "2002-0", "filename": "2002_ocr_10.2307_27700314"}
+{"searchstring": "Matthew J. Jacobs - Assessing the Constitutionality of Press Restrictions in the Persian Gulf War", "date": "1992-2", "filename": "1992_ocr_10.2307_1228978"}
+{"searchstring": "Sally Bick - In the Tradition of Dissent: Music at the New School for Social Research, 1926–33", "date": "2013-4", "filename": "2013_ocr_10.1525_jams.2013.66.1.129"}
+{"searchstring": "Geoffrey Galt Harpham - Abroad Only by a Fiction: Creation, Irony, and Necessity in Conrad's The Secret Agent", "date": "1992-1", "filename": "1992_ocr_10.2307_2928655"}
+{"searchstring": "David Ortiz and  Jr. - Redefining Public Education: Contestation, the Press, and Education in Regency Spain, 1885-1902", "date": "2001-0", "filename": "2001_ocr_10.2307_3789264"}
+{"searchstring": "Carl Van Vechten - SOME "LITERARY LADIES" I HAVE KNOWN", "date": "1952-1", "filename": "1952_ocr_10.2307_40857543"}
+{"searchstring": "Laurie Crumpacker and  Eleanor M. Vander Haegen - Pedagogy and Prejudice: Strategies for Confronting Homophobia in the Classroom", "date": "1993-0", "filename": "1993_ocr_10.2307_40022011"}
+{"searchstring": "mimi - becoming a coalition", "date": "1975-4", "filename": "1975_ocr_10.2307_25783992"}
+{"searchstring": " - Book Notes", "date": "1985-6", "filename": "1985_ocr_10.2307_1903833"}
+{"searchstring": "Paul Knepper - The Other Invisible Hand: Jews and Anarchists in London before the First World War", "date": "2008-1", "filename": "2008_ocr_10.2307_40345553"}
+{"searchstring": "Charlene Haddock Seigfried - Where Are All the Pragmatist Feminists?", "date": "1991-7", "filename": "1991_ocr_10.2307_3810093"}
+{"searchstring": "Emma E. Moore - Isolation and Characterization of a Near-Diploid Differentiated Cell Line from a Murine Teratocarcinoma That Differentiates into Muscle", "date": "1984-6", "filename": "1984_ocr_10.2307_4292834"}
+{"searchstring": "Ellery Sedgwick - Using Magazines in Undergraduate Literature Courses", "date": "2002-1", "filename": "2002_ocr_10.2307_20770889"}
+{"searchstring": "Diane Paul - Eugenics and the Left", "date": "1984-0", "filename": "1984_ocr_10.2307_2709374"}
+{"searchstring": "Robert H. McNeal - Women in the Russian Radical Movement", "date": "1971-2", "filename": "1971_ocr_10.2307_3786408"}
+{"searchstring": "Juliana Spahr - Connected Disconnection and Localized Globalism in Pacific Multilingual Literature", "date": "2004-0", "filename": "2004_ocr_10.2307_4131980"}
+{"searchstring": "Leela Gandhi - Concerning Violence: The Limits and Circulations of Gandhian "Ahisma" or Passive Resistance", "date": "1996-2", "filename": "1996_ocr_10.2307_1354573"}
+{"searchstring": "David Kazanjian and  María Josefina Saldaña-Portillo - Introduction: The Traffic in History", "date": "2007-0", "filename": "2007_ocr_10.2307_40283513"}
+{"searchstring": "George Shulman - On Vulnerability as Judith Butler's Language of Politics: From "Excitable Speech" to "Precarious Life"", "date": "2011-4", "filename": "2011_ocr_10.2307_41290295"}
+{"searchstring": "Arnaldo Testi - The Gender of Reform Politics: Theodore Roosevelt and the Culture of Masculinity", "date": "1995-3", "filename": "1995_ocr_10.2307_2081647"}
+{"searchstring": "Elizabeth Brake - Minimal Marriage: What Political Liberalism Implies for Marriage Law", "date": "2010-1", "filename": "2010_ocr_10.1086_651429"}
+{"searchstring": "Daniel J. Kevles - Controlling the Genetic Arsenal", "date": "1992-4", "filename": "1992_ocr_10.2307_40258477"}
+{"searchstring": "Jesús Benito Sánchez - «DOCTOROW'S "RAGTIME": A BREACH IN THE FRAME OF HISTORY»", "date": "1997-2", "filename": "1997_ocr_10.2307_41055457"}
+{"searchstring": "D. Novak - Anarchism and Individual Terrorism", "date": "1954-5", "filename": "1954_ocr_10.2307_138596"}
+{"searchstring": "Loretta Kensinger - (In)Quest of Liberal Feminism", "date": "1997-0", "filename": "1997_ocr_10.2307_3810738"}
+{"searchstring": "Mike Wallace - The Ellis Island Immigration Museum", "date": "1991-2", "filename": "1991_ocr_10.2307_2078806"}
+{"searchstring": " - Love and Work in Adulthood", "date": "1977-2", "filename": "1977_ocr_10.2307_3823251"}
+{"searchstring": "Peter Heehs - Foreign Influences on Bengali Revolutionary Terrorism 1902-1908", "date": "1994-7", "filename": "1994_ocr_10.2307_313043"}
+{"searchstring": "Ellen Schrecker - Immigration and Internal Security: Political Deportations during the McCarthy Era", "date": "1996-2", "filename": "1996_ocr_10.2307_40404675"}
+{"searchstring": "Catherine Helen Palczewski - Voltairine de Cleyre: Sexual Slavery and Sexual Pleasure in the Nineteenth Century", "date": "1995-0", "filename": "1995_ocr_10.2307_4316402"}
+{"searchstring": "Gerald Gunther - Learned Hand and the Origins of Modern First Amendment Doctrine: Some Fragments of History", "date": "1975-2", "filename": "1975_ocr_10.2307_1228336"}
+{"searchstring": "Julian Beck and  Judith Malina and  Mark Amitin - The Living Theatre Abroad: Radicalizing the Classics. Interview with Julian Beck and Judith Malina", "date": "1981-1", "filename": "1981_ocr_10.2307_3245163"}
+{"searchstring": "Hillary Chute - Temporality and Seriality in Spiegelman's "In the Shadow of No Towers"", "date": "2007-1", "filename": "2007_ocr_10.2307_20770987"}
+{"searchstring": "JUDITH KOLB MORRIS - INTERACTING OPPRESSIONS: TEACHING SOCIAL WORK CONTENT ON WOMEN OF COLOR", "date": "1993-1", "filename": "1993_ocr_10.2307_41346364"}
+{"searchstring": "MARCIA P. MCGOWAN - Mapping a New Territory: "Luisa in Realityland"", "date": "1993-4", "filename": "1993_ocr_10.2307_23022246"}
+{"searchstring": "R. S. F. - Editorial: First Person Singular", "date": "1978-1", "filename": "1978_ocr_10.2307_4637992"}
+{"searchstring": "Ruth Kinna - Fields of Vision: Kropotkin and Revolutionary Change", "date": "2007-1", "filename": "2007_ocr_10.2307_25195126"}
+{"searchstring": "Christie McDonald - Changing the Facts of Life: The Case of Baby M", "date": "1991-1", "filename": "1991_ocr_10.2307_3684881"}
+{"searchstring": "PAMELA HAAG - The Embarrassment of Riches: Do not pity me for having more money than anyone I know. Still, wealth does have its mild difficulties", "date": "2006-7", "filename": "2006_ocr_10.2307_41222619"}
+{"searchstring": "Steven Seidman - Queer-Ing Sociology, Sociologizing Queer Theory: An Introduction", "date": "1994-7", "filename": "1994_ocr_10.2307_201862"}
+{"searchstring": "Cass R. Sunstein - Minimalism at War", "date": "2004-1", "filename": "2004_ocr_10.2307_3536968"}
+{"searchstring": "M. Mark Stolarik - Slovak-Americans in the Great Steel Strike", "date": "1997-7", "filename": "1997_ocr_10.2307_27774001"}
+{"searchstring": "Jane Greer - "No Smiling Madonna": Marian Wharton and the Struggle to Construct a Critical Pedagogy for the Working Class, 1914-1917", "date": "1999-2", "filename": "1999_ocr_10.2307_359041"}
+{"searchstring": "JOHN J. STUHR - Only Going So Fast: Philosophies as Fashions", "date": "2006-1", "filename": "2006_ocr_10.2307_25670615"}
+{"searchstring": "Gayle Rogers - Restaging the Disaster: Dos Passos and National Literatures after the Spanish-American War", "date": "2013-1", "filename": "2013_ocr_10.2979_jmodelite.36.2.61"}
+{"searchstring": "Charles M. Edmondson - The Politics of Hunger: The Soviet Response to Famine, 1921", "date": "1977-0", "filename": "1977_ocr_10.2307_150533"}
+{"searchstring": "Martha Vicinus - "One Life to Stand beside Me": Emotional Conflicts in First-Generation College Women in England", "date": "1982-0", "filename": "1982_ocr_10.2307_3177714"}
+{"searchstring": "Nancy J. Rosenbloom - In Defense of the Moving Pictures: The People's Institute, The National Board of Censorship and the Problem of Leisure in Urban America", "date": "1992-0", "filename": "1992_ocr_10.2307_40642471"}
+{"searchstring": "Irwin Unger - The "New Left" and American History: Some Recent Trends in United States Historiography", "date": "1967-7", "filename": "1967_ocr_10.2307_1847792"}
+{"searchstring": "Todd McCallum - 'Not a Sex Question'? The One Big Union and the Politics of Radical Manhood", "date": "1998-0", "filename": "1998_ocr_10.2307_25148879"}
+{"searchstring": "Chicken Lady - chicken lady: droppings...", "date": "1976-6", "filename": "1976_ocr_10.2307_25784293"}
+{"searchstring": "Sydney Stahl Weinberg and  Donna Gabaccia and  Hasia R. Diner and  Maxine Schwartz Seller - The Treatment of Women in Immigration History: A Call for Change [with Comments and Response]", "date": "1992-7", "filename": "1992_ocr_10.2307_27500980"}
+{"searchstring": "Virginia Low and  Martha Avery and  Amy Richlin and  Ann Pellegrini and  Doris B. Gold and  Cress Forester - Letters", "date": "1993-1", "filename": "1993_ocr_10.2307_4021643"}
+{"searchstring": "Brian T. Thorn - Representations of a Radical Historian", "date": "2005-4", "filename": "2005_ocr_10.2307_25149609"}
+{"searchstring": "Woodrow C. Whitten - Criminal Syndicalism and the Law in California: 1919-1927", "date": "1969-1", "filename": "1969_ocr_10.2307_1006021"}
+{"searchstring": "H. M. Gitelman - Perspectives on American Industrial Violence", "date": "1973-4", "filename": "1973_ocr_10.2307_3113601"}
+{"searchstring": "TORRIE HESTER - “Protection, Not Punishment”: Legislative and Judicial Formation of U.S. Deportation Policy, 1882–1904", "date": "2010-0", "filename": "2010_ocr_10.5406_jamerethnhist.30.1.0011"}
+{"searchstring": "HELEN R. DEESE - A NEW ENGLAND WOMEN'S NETWORK: ELIZABETH PALMER PEABODY, CAROLINE HEALEY DALL, AND DELIA S. BACON", "date": "1991-0", "filename": "1991_ocr_10.2307_25684426"}
+{"searchstring": "Bryan McKinley Jones Brayboy and  Angelina E. Castagno and  Emma Maughan - Equality and Justice for All? Examining Race in Education Scholarship", "date": "2007-1", "filename": "2007_ocr_10.2307_20185105"}
+{"searchstring": "Michael True - American Literary Radicals and the Bicentennial-Jefferson to Ginsberg, 1776-1976", "date": "1975-9", "filename": "1975_ocr_10.2307_815950"}
+{"searchstring": "Selma Greenberg and  Patricia B. Campbell - Sexuality, Sexism and Education: The Views of Feminists, Past and Present", "date": "1987-7", "filename": "1987_ocr_10.2307_1492826"}
+{"searchstring": " - Book Notes", "date": "1978-9", "filename": "1978_ocr_10.2307_1894191"}
+{"searchstring": "Stephen Cooper - Cutting Both Ways: E. L. Doctorow's Critique of the Left", "date": "1993-5", "filename": "1993_ocr_10.2307_3200971"}
+{"searchstring": "Robert A. Strikwerda and  Larry May - Male Friendship and Intimacy", "date": "1992-7", "filename": "1992_ocr_10.2307_3809875"}
+{"searchstring": "Sarah Benton - Women Disarmed: The Militarization of Politics in Ireland 1913-23", "date": "1995-7", "filename": "1995_ocr_10.2307_1395497"}
+{"searchstring": "Maxine S. Seller - Putting Women into American Jewish History", "date": "1980-4", "filename": "1980_ocr_10.2307_3346307"}
+{"searchstring": "Marc Bousquet - Composition as Management Science: Toward a University without a WPA", "date": "2002-7", "filename": "2002_ocr_10.2307_20866508"}
+{"searchstring": "David Joselit and  Carrie Lambert-Beatty and  ALTERNATIVE ECONOMIES WORKING GROUP and  DOUG ASHFORD and  THOMAS BEARD and  JULIA BRYAN-WILSON and  PAUL CHAN and  ROSALYN DEUTSCHE and  TIDAL and  COCO FUSCO and  JALEH MANSOOR and  DANIEL MARCUS and  DANIEL SPAULDING and  YATES McKEE and  ARIANA REINES and  JACKIE WANG and  LARA WEIBGEN and  MARTHA ROSLER and  ANDREW ROSS and  MARTHA SCHWENDENER and  GREGORY SHOLETTE - [15 Responses to a Questionnaire on Occupy Wall Street]", "date": "2012-0", "filename": "2012_ocr_10.2307_23361983"}
+{"searchstring": "Ronald J. Zboray - Archival Standards in Documentary Editing", "date": "1990-1", "filename": "1990_ocr_10.2307_40371920"}
+{"searchstring": "Sandra S. Phillips - The Art Criticism of Walter Pach", "date": "1983-3", "filename": "1983_ocr_10.2307_3050302"}
+{"searchstring": "Mary Anne Trasciatti - Athens or Anarchy? Soapbox Oratory and the Early Twentieth-Century American City", "date": "2013-4", "filename": "2013_ocr_10.5749_buildland.20.1.0043"}
+{"searchstring": "J. Theodore Hefley - Freedom Upheld: The Civil Liberties Stance of "The Christian Century" between the Wars", "date": "1968-6", "filename": "1968_ocr_10.2307_3162596"}
+{"searchstring": "Rudolf Sühnel - The Marxist Trend in Literary Criticism in the USA in the Thirties", "date": "1962-1", "filename": "1962_ocr_10.2307_41155002"}
+{"searchstring": "Thomas C. Leonard - Protecting Family and Race: The Progressive Case for Regulating Women's Work", "date": "2005-7", "filename": "2005_ocr_10.2307_3488159"}
+{"searchstring": "Richard W. Cox - Wanda Gág: The Bite of the Picture Book", "date": "1975-0", "filename": "1975_ocr_10.2307_20178372"}
+{"searchstring": "Bill Meek - Hail the Chief! Francis O'Neill: Collector, Musician, Adventurer & Policeman", "date": "1999-4", "filename": "1999_ocr_10.2307_27724640"}
+{"searchstring": "Jeff Kennedy - Experiment on Macdougal Street: The Provincetown Players' 1918-1919 Season", "date": "2010-1", "filename": "2010_ocr_10.2307_29784901"}
+{"searchstring": "Victoria Kingham - <i>THE PAGAN</i>, JOSEPH KLING, AND AMERICAN SALON SOCIALISM", "date": "2010-1", "filename": "2010_ocr_10.5325_jmodeperistud.1.1.0001"}
+{"searchstring": "Jean Bethke Elshtain - Why Public Intellectuals?", "date": "2001-0", "filename": "2001_ocr_10.2307_40260262"}
+{"searchstring": "Clare Hemmings - In the Mood for Revolution: Emma Goldman's Passion", "date": "2012-7", "filename": "2012_ocr_10.2307_23358878"}
+{"searchstring": "Kristin Boudreau - Elegies for the Haymarket Anarchists", "date": "2005-6", "filename": "2005_ocr_10.2307_40281778"}
+{"searchstring": "Elizabeth Fee and  Nancy Krieger - Health, Politics and Power", "date": "1994-7", "filename": "1994_ocr_10.2307_4021864"}
+{"searchstring": "Nina Warnke - Immigrant Popular Culture as Contested Sphere: Yiddish Music Halls, the Yiddish Press, and the Processes of Americanization, 1900-1910", "date": "1996-0", "filename": "1996_ocr_10.2307_3209042"}
+{"searchstring": "Frederick C. Giffin - Leon Trotsky in New York City", "date": "1968-0", "filename": "1968_ocr_10.2307_23162567"}
+{"searchstring": "Lenn Goodman - The Road to Kazanistan", "date": "2008-4", "filename": "2008_ocr_10.2307_20464403"}
+{"searchstring": "Alan C. Golding - The Dial, The Little Review, and The Dialogics of Modernism", "date": "2005-1", "filename": "2005_ocr_10.2307_20771170"}
+{"searchstring": "David Mulry - Popular Accounts of the Greenwich Bombing and Conrad's "The Secret Agent"", "date": "2000-1", "filename": "2000_ocr_10.2307_1348119"}
+{"searchstring": "Jeb - no government", "date": "1975-4", "filename": "1975_ocr_10.2307_25784018"}
+{"searchstring": "Chicken Lady - chicken lady: droppings...", "date": "1976-9", "filename": "1976_ocr_10.2307_25772555"}
+{"searchstring": "Harry C. McDean - Professionalism in the Rural Social Sciences, 1896-1919", "date": "1984-7", "filename": "1984_ocr_10.2307_3743086"}
+{"searchstring": "Janis Kelly and  Mary Farmer - lammas women's shop", "date": "1981-8", "filename": "1981_ocr_10.2307_25793862"}
+{"searchstring": "Josi Ward - “Dreams of Oriental Romance”: Reinventing Chinatown in 1930s Los Angeles", "date": "2013-4", "filename": "2013_ocr_10.5749_buildland.20.1.0019"}
+{"searchstring": "Marilyn J. Boxer - Rethinking the Socialist Construction and International Career of the Concept "Bourgeois Feminism"", "date": "2007-2", "filename": "2007_ocr_10.2307_4136009"}
+{"searchstring": "Moira Roth - Teaching Modern Art History from a Feminist Perspective: Challenging Conventions, My Own and Others", "date": "1987-4", "filename": "1987_ocr_10.2307_40004835"}
+{"searchstring": "GEORGE CHAUNCEY and  JR. - From Sexual Inversion To Homosexuality: Medicine And The Changing Conceptualization Of Female Deviance", "date": "1982-0", "filename": "1982_ocr_10.2307_40547567"}
+{"searchstring": "Norbert Elliot - A Midrash for Louise Rosenblatt", "date": "2008-1", "filename": "2008_ocr_10.2307_20176854"}
+{"searchstring": "Kay Thurston - Barriers to the Self-Definition of the Chicana: Gina Valdés and There Are No Madmen Here", "date": "1994-2", "filename": "1994_ocr_10.2307_468203"}
+{"searchstring": "Herbert H. Stroup - Social Work and the Attainment of Historical Perspective", "date": "1954-4", "filename": "1954_ocr_10.2307_3484487"}
+{"searchstring": "Karla Jay - Power to the Author", "date": "1986-1", "filename": "1986_ocr_10.2307_4019964"}
+{"searchstring": "vickie leonard - network", "date": "1976-7", "filename": "1976_ocr_10.2307_25784369"}
+{"searchstring": "John J. Grabowski - Fragments or Components: Theme Collections in a Local Setting", "date": "1985-7", "filename": "1985_ocr_10.2307_40292920"}
+{"searchstring": "Deirdre N. McCloskey - Free-Market Feminism 101", "date": "2000-7", "filename": "2000_ocr_10.2307_40326003"}
+{"searchstring": "Mau Sang Ng - Ba Jin and Russian Literature", "date": "1981-1", "filename": "1981_ocr_10.2307_495337"}
+{"searchstring": "Richard W. Cox - Art Young: Cartoonist from the Middle Border", "date": "1977-0", "filename": "1977_ocr_10.2307_4635198"}
+{"searchstring": "Evan Brier - The Accidental Blockbuster: "Peyton Place" in Literary and Institutional Context", "date": "2005-0", "filename": "2005_ocr_10.2307_40004418"}
+{"searchstring": " - feminist dos and don'ts", "date": "1973-2", "filename": "1973_ocr_10.2307_25783550"}
+{"searchstring": "Susan E. Searing - Primary Source Anthologies for Women's History: Selected Books in Print", "date": "1988-4", "filename": "1988_ocr_10.2307_40003809"}
+{"searchstring": "Linda Lappin - Jane Heap and Her Circle", "date": "2004-2", "filename": "2004_ocr_10.2307_40637821"}
+{"searchstring": "Claudia Card - Against Marriage and Motherhood", "date": "1996-7", "filename": "1996_ocr_10.2307_3810319"}
+{"searchstring": "Christina Simmons - Companionate Marriage and the Lesbian Threat", "date": "1979-0", "filename": "1979_ocr_10.2307_3346150"}
+{"searchstring": "JACQUELINE FOERTSCH - NOT BOMBSHELLS BUT BASKETCASES: GENDERED ILLNESS IN NUCLEAR TEXTS", "date": "1999-2", "filename": "1999_ocr_10.2307_29533358"}
+{"searchstring": "Joanna Schneider Zangrando - Women's Studies in the United States: Approaching Reality", "date": "1975-0", "filename": "1975_ocr_10.2307_41278497"}
+{"searchstring": "Marie Marmo Mullaney - Sexual Politics in the Career and Legend of Louise Michel", "date": "1990-1", "filename": "1990_ocr_10.2307_3174487"}
+{"searchstring": "Ann Taylor Allen - Mothers of the New Generation: Adele Schreiber, Helene Stöcker, and the Evolution of a German Idea of Motherhood, 1900-1914", "date": "1985-4", "filename": "1985_ocr_10.2307_3174259"}
+{"searchstring": "Albert Boime - Ryder on a Gilded Horse", "date": "1993-1", "filename": "1993_ocr_10.2307_1482678"}
+{"searchstring": "Rochelle Cooper Dreyfuss - A "Wiseguy"'s Approach to Information Products: Muscling Copyright and Patent into a Unitary Theory of Intellectual Property", "date": "1992-1", "filename": "1992_ocr_10.2307_3109671"}
+{"searchstring": "Caroline A. Waldron - "Lynch-law Must Go!": Race, Citizenship, and the Other in an American Coal Mining Town", "date": "2000-0", "filename": "2000_ocr_10.2307_27502644"}
+{"searchstring": "Patricia A. Palmieri - Here Was Fellowship: A Social Portrait of Academic Women at Wellesley College, 1895-1920", "date": "1983-7", "filename": "1983_ocr_10.2307_368159"}
+{"searchstring": "Linda L. Shaw and  Diane G. Wicker - Teaching about Racism in the Classroom and in the Community", "date": "1981-1", "filename": "1981_ocr_10.2307_20709293"}
+{"searchstring": "Chicken Lady - chicken lady", "date": "1998-4", "filename": "1998_ocr_10.2307_20836052"}
+{"searchstring": "Peter Waterman - Hopeful Traveller: The Itinerary of an Internationalist", "date": "1993-4", "filename": "1993_ocr_10.2307_4289212"}
+{"searchstring": "David Weir - What Did He Know, and When Did He Know It: The "Little Review," Joyce, and "Ulysses"", "date": "2000-4", "filename": "2000_ocr_10.2307_25477749"}
+{"searchstring": "Barbara Kraft - Last Days of Henry Miller", "date": "1993-0", "filename": "1993_ocr_10.2307_3852422"}
+{"searchstring": "Alice Wexler and  Emma Goldman - Emma Goldman on Mary Wollstonecraft", "date": "1981-4", "filename": "1981_ocr_10.2307_3177674"}
+{"searchstring": " - correction: free joan bird!", "date": "1970-7", "filename": "1970_ocr_10.2307_25783016"}
+{"searchstring": "Manfred Gerstenfeld - THE DEEP ROOTS OF ANTI-SEMITISM IN EUROPEAN SOCIETY", "date": "2005-4", "filename": "2005_ocr_10.2307_25834618"}
+{"searchstring": "Judith Gustafson - THE WHORE WITH THE HEART OF GOLD: A Second Look at "Klute" and "McCabe and Mrs. Miller"", "date": "1981-1", "filename": "1981_ocr_10.2307_41686060"}
+{"searchstring": "Dianne Osland - Trusting the Teller: Metaphor in Fiction, and the Case of "Ragtime"", "date": "1997-0", "filename": "1997_ocr_10.2307_20107123"}
+{"searchstring": "M. Catherine Miller - Finding "the More Satisfactory Type of Jurymen": Class and the Construction of Federal Juries, 1926-1954", "date": "2001-2", "filename": "2001_ocr_10.2307_2700395"}
+{"searchstring": "Suzanne Clark - "Fight Club": Historicizing the Rhetoric of Masculinity, Violence, and Sentimentality", "date": "2001-4", "filename": "2001_ocr_10.2307_20866410"}
+{"searchstring": "SHELDON L. RICHMAN - JOURNALISM: Mr. Mencken and the Jews", "date": "1990-7", "filename": "1990_ocr_10.2307_41211810"}
+{"searchstring": "John H. M. Laslett - Gender, Class, or Ethno-Cultural Struggle? The Problematic Relationship between Rose Pesotta and the Los Angeles ILGWU", "date": "1993-4", "filename": "1993_ocr_10.2307_25177324"}
+{"searchstring": "Joan Wallach Scott - Women in History. The Modern Period", "date": "1983-1", "filename": "1983_ocr_10.2307_650673"}
+{"searchstring": "Amanda Howenstein - Progressive-Era Resources on the World Wide Web", "date": "1999-4", "filename": "1999_ocr_10.2307_25163295"}
+{"searchstring": "Kathleen M. Puhr - Postmodernism for High-School Students", "date": "1992-1", "filename": "1992_ocr_10.2307_818343"}
+{"searchstring": "Jessie L. Embry - Ultimate Taboos: Incest and Mormon Polygamy", "date": "1992-4", "filename": "1992_ocr_10.2307_23286362"}
+{"searchstring": "Blaine McKinley - "The Quagmires of Necessity": American Anarchists and Dilemmas of Vocation", "date": "1982-2", "filename": "1982_ocr_10.2307_2712642"}
+{"searchstring": "Sidney Fine - Anarchism and the Assassination of McKinley", "date": "1955-7", "filename": "1955_ocr_10.2307_1844919"}
+{"searchstring": "James D. Gifford - Anarchist Transformations of English Surrealism: The Villa Seurat Network", "date": "2010-7", "filename": "2010_ocr_10.2979_JML.2010.33.4.57"}
+{"searchstring": "Patricia Crone - Ninth-Century Muslim Anarchists", "date": "2000-5", "filename": "2000_ocr_10.2307_651252"}
+{"searchstring": "Nancy Berke - "Electric Currents of Life:" Lola Ridge's Immigrant Flaneuserie", "date": "2010-4", "filename": "2010_ocr_10.2307_41287809"}
+{"searchstring": "Deborah Dash Moore - Judaism as a Gendered Civilization: The Legacy of Mordecai Kaplan's Magnum Opus", "date": "2006-1", "filename": "2006_ocr_10.2307_4467742"}
+{"searchstring": "Deirdre N. McCloskey - Getting It Right, or Left: Marxism and Competition", "date": "2001-0", "filename": "2001_ocr_10.2307_40326065"}
+{"searchstring": "Yvonne Shafer - O'Neill, Glaspell, and John Reed: Antiwar, Pro-American Reformers", "date": "2010-1", "filename": "2010_ocr_10.2307_29784900"}
+{"searchstring": "Ange-Marie Hancock - When Multiplication Doesn't Equal Quick Addition: Examining Intersectionality as a Research Paradigm", "date": "2007-3", "filename": "2007_ocr_10.2307_20446350"}
+{"searchstring": "Elna C. Green - From Antisuffragism to Anti-Communism: The Conservative Career of Ida M. Darden", "date": "1999-5", "filename": "1999_ocr_10.2307_2587365"}
+{"searchstring": "Margaret S. Marsh - The Anarchist-Feminist Response to the "Woman Question" in Late Nineteenth-Century America", "date": "1978-0", "filename": "1978_ocr_10.2307_2712299"}
+{"searchstring": "Marjorie N. Feld - 'An Actual Working out of Internationalism': Russian Politics, Zionism, and Lillian Wald's Ethnic Progressivism", "date": "2003-4", "filename": "2003_ocr_10.2307_25144325"}
+{"searchstring": "ANNA KLOBUCKA - Spanking Florbela: Adília Lopes and a Genealogy of Feminist Parody in Portuguese Poetry", "date": "2003-1", "filename": "2003_ocr_10.2307_41105205"}
+{"searchstring": "David B. Filvaroff - Conspiracy and the First Amendment", "date": "1972-2", "filename": "1972_ocr_10.2307_3311162"}
+{"searchstring": "Carol Ehrlich - The Woman Book Industry", "date": "1973-1", "filename": "1973_ocr_10.2307_2776620"}
+{"searchstring": "Dirk Hoerder - Immigration and the Working Class: The Remigration Factor", "date": "1982-4", "filename": "1982_ocr_10.2307_27671395"}
+{"searchstring": "PATRICK RENSHAW - Rose of the World: The Pastor-Stokes Marriage and the American Left, 1905–1925", "date": "1981-0", "filename": "1981_ocr_10.2307_23170033"}
+{"searchstring": "Susan C. M. Scrimshaw - Women and the Pill: From Panacea to Catalyst", "date": "1981-1", "filename": "1981_ocr_10.2307_2134583"}
+{"searchstring": "ASKOLD MELNYCZYCK - Late", "date": "1993-5", "filename": "1993_ocr_10.2307_27781139"}
+{"searchstring": "Andrew Ross - Wet, Dark, and Low, Eco-Man Evolves from Eco-Woman", "date": "1992-7", "filename": "1992_ocr_10.2307_303540"}
+{"searchstring": "Estelle Freedman - Separatism as Strategy: Female Institution Building and American Feminism, 1870-1930", "date": "1979-0", "filename": "1979_ocr_10.2307_3177511"}
+{"searchstring": "Donald Gallup - THE MABEL DODGE LUHAN PAPERS", "date": "1963-1", "filename": "1963_ocr_10.2307_40857971"}
+{"searchstring": "Adam J. Hodges - Oregon Voices: At War over the Espionage Act in Portland: Dueling Perspectives from Kathleen O'Brennan and Agent William Bryon", "date": "2007-0", "filename": "2007_ocr_10.2307_20615768"}
+{"searchstring": "Shelley Streeby - Labor, Memory, and the Boundaries of Print Culture: From Haymarket to the Mexican Revolution", "date": "2007-7", "filename": "2007_ocr_10.2307_4496990"}
+{"searchstring": "Lucy Taksa - Toil, Struggle and Repose: Oral History and the Exploration of Labour Culture in Australia", "date": "1994-1", "filename": "1994_ocr_10.2307_27509279"}
+{"searchstring": "James Trussell and  Kathryn Kost - Contraceptive Failure in the United States: A Critical Review of the Literature", "date": "1987-9", "filename": "1987_ocr_10.2307_1966856"}
+{"searchstring": "Heinz Eulau - Mover and Shaker: Walter Lippmann as a Young Man", "date": "1951-0", "filename": "1951_ocr_10.2307_4609499"}
+{"searchstring": "Mark A. Sullivan - Why the Georgist Movement Has Not Succeeded: A Personal Response to the Question Raised by Warren J. Samuels", "date": "2003-7", "filename": "2003_ocr_10.2307_3487815"}
+{"searchstring": "Ze'ev Iviansky - Individual Terror: Concept and Typology", "date": "1977-1", "filename": "1977_ocr_10.2307_260236"}
+{"searchstring": "Patricia A. Cain - Litigating for Lesbian and Gay Rights: A Legal History", "date": "1993-0", "filename": "1993_ocr_10.2307_1073382"}
+{"searchstring": "Dolores E. Janiewski - "Confusion of Mind": Colonial and Post-Colonial Discourses about Frontier Encounters", "date": "1998-4", "filename": "1998_ocr_10.2307_27556325"}
+{"searchstring": "Bill Angelbeck and  Colin Grier - Anarchism and the Archaeology of Anarchic Societies: Resistance to Centralization in the Coast Salish Region of the Pacific Northwest Coast", "date": "2012-0", "filename": "2012_ocr_10.1086_667621"}
+{"searchstring": "E. IMAFEDIA OKHAMAFE - HEIDEGGER'S "NIETZSCHE" AND NIETZSCHE'S PLAY: The Questions of Wo(man), Christianity, Nihilism, and Humanism", "date": "1988-2", "filename": "1988_ocr_10.2307_41178449"}
+{"searchstring": "John R. Pfeiffer - A CONTINUING CHECKLIST OF SHAVIANA", "date": "2012-1", "filename": "2012_ocr_10.5325_shaw.32.1.0194"}
+{"searchstring": "Lisa Ede and  Cheryl Glenn and  Andrea Lunsford - Border Crossings: Intersections of Rhetoric and Feminism", "date": "1995-1", "filename": "1995_ocr_10.1525_rh.1995.13.4.401"}
+{"searchstring": "Yvonne Rainer - Working Title: Journeys from Berlin/1971", "date": "1979-7", "filename": "1979_ocr_10.2307_778323"}
+{"searchstring": "Mohan Rao - An Imagined Reality: Malthusianism, Neo-Malthusianism and Population Myth", "date": "1994-1", "filename": "1994_ocr_10.2307_4400725"}
+{"searchstring": "Carl N. Degler - On Rereading "The Woman in America"", "date": "1987-0", "filename": "1987_ocr_10.2307_20025131"}
+{"searchstring": "Nik Heynen - Bending the Bars of Empire from Every Ghetto for Survival: The Black Panther Party's Radical Antihunger Politics of Social Reproduction and Scale", "date": "2009-4", "filename": "2009_ocr_10.2307_25515206"}
+{"searchstring": "Cynthia Nelson and  ﺳﻴﻨﺜﻴﺎ ﻧﻴﻠﺴﻮﻥ and  Doria Shafik and  ﺩﺭﻳﺔ ﺷﻔﻴﻖ - Doria Shafik's French Writing: Hybridity in a Feminist Key / ﻛﺘﺎﺑﺔ ﺩﺭﻳﺔ ﺷﻔﻴﻖ ﺑﺎﻟﻔﺮﻧﺴﻴﺔ: ﺍﻟﻨﺺ ﺍﻟﻤﺰﺩﻭﺝ ﺑﻨﺒﺮﺓ ﻧﺴﻮﻳﺔ", "date": "2000-1", "filename": "2000_ocr_10.2307_521944"}
+{"searchstring": "David L. Weis - Conclusion: The State of Sexual Theory", "date": "1998-1", "filename": "1998_ocr_10.2307_3813168"}
+{"searchstring": "Edward J. Brown - So Much Depends... Russian Critics in Search of "Reality"", "date": "1989-0", "filename": "1989_ocr_10.2307_130390"}
+{"searchstring": "Debra L. Schultz - Supporting Activist Women: <i>Blanche Wiesen Cook and Feminist Biography</i>", "date": "2010-4", "filename": "2010_ocr_10.2979_meridians.2010.10.2.76"}
+{"searchstring": "Rhodri Jeffreys-Jones - Theories of American Labour Violence", "date": "1979-8", "filename": "1979_ocr_10.2307_27553696"}
+{"searchstring": "Val Johnson - "The Moral Aspects of Complex Problems": New York City Electoral Campaigns against Vice and the Incorporation of Immigrants, 1890-1901", "date": "2006-1", "filename": "2006_ocr_10.2307_27501689"}
+{"searchstring": "Peter Conrad - Public Eyes and Private Genes: Historical Frames, News Constructions, and Social Problems", "date": "1997-5", "filename": "1997_ocr_10.2307_3096939"}
+{"searchstring": "Thomas G. Evans - Impersonal Dilemmas: The Collision of Modernist and Popular Traditions in Two Political Novels, "The Grapes of Wrath" and "Ragtime"", "date": "1987-1", "filename": "1987_ocr_10.2307_3199999"}
+{"searchstring": "Chicken Lady - Chicken Lady", "date": "1985-5", "filename": "1985_ocr_10.2307_25775474"}
+{"searchstring": "Trisha Franzen - Differences and Identities: Feminism and the Albuquerque Lesbian Community", "date": "1993-7", "filename": "1993_ocr_10.2307_3174911"}
+{"searchstring": "Karen Graves - "So, You Think You Have a History?": Taking a Q from Lesbian and Gay Studies in Writing Education History", "date": "2012-1", "filename": "2012_ocr_10.2307_41719722"}
+{"searchstring": "Helen Delpar - Frank Tannenbaum: The Making of a Mexicanist, 1914-1933", "date": "1988-0", "filename": "1988_ocr_10.2307_1006782"}
+{"searchstring": "Cristanne Miller - Marianne Moore and the Women Modernizing New York", "date": "2000-1", "filename": "2000_ocr_10.2307_438939"}
+{"searchstring": "Carroll Smith-Rosenberg - The Feminist Reconstruction of History", "date": "1983-9", "filename": "1983_ocr_10.2307_40249062"}
+{"searchstring": "Kylie Valentine - Mad and Modern: A Reading of Emily Holmes Coleman and Antonia White", "date": "2003-4", "filename": "2003_ocr_10.2307_20059135"}
+{"searchstring": "Susan Gubar - Feminist Misogyny: Mary Wollstonecraft and the Paradox of "It Takes One to Know One"", "date": "1994-0", "filename": "1994_ocr_10.2307_3178182"}
+{"searchstring": "Barbara Taylor - Spadina Avenue, Toronto: A Photo-History. An Exhibition at the A-Space Gallery, Spadina Avenue, Toronto", "date": "1985-4", "filename": "1985_ocr_10.2307_4288639"}
+{"searchstring": "Dimitri von Mohrenschildt - American Intelligentsia and Russia of the N. E. P.", "date": "1947-4", "filename": "1947_ocr_10.2307_125309"}
+{"searchstring": "Avishag Reisman - Reading Like a Historian: A Document-Based History Curriculum Intervention in Urban High Schools", "date": "2012-1", "filename": "2012_ocr_10.2307_23223670"}
+{"searchstring": "Karl Hoover - The Hindu Conspiracy in California, 1913-1918", "date": "1985-5", "filename": "1985_ocr_10.2307_1428642"}
+{"searchstring": "Juan José Cruz - "You Can't Go Home, Yankee:" Teaching U.S. History to Canary Islands Students", "date": "2002-5", "filename": "2002_ocr_10.2307_3054442"}
+{"searchstring": "SUSAN WLADAVER-MORGAN - <span class="smallcaps">HISTORICAL NEWS</span>", "date": "2006-1", "filename": "2006_ocr_10.1525_phr.2006.75.4.713"}
+{"searchstring": "Clarence J. Karier - Art in a Therapeutic Age: Part I", "date": "1979-7", "filename": "1979_ocr_10.2307_3331993"}
+{"searchstring": "terri poppe - a comedy in six unnatural acts", "date": "1976-7", "filename": "1976_ocr_10.2307_25784359"}
+{"searchstring": "CLARE CORBOULD - US IMPERIALISM IN THE TWENTIETH CENTURY?", "date": "2005-2", "filename": "2005_ocr_10.2307_41053999"}
+{"searchstring": "Judith Schwarz - "Yellow Clover": Katharine Lee Bates and Katharine Coman", "date": "1979-4", "filename": "1979_ocr_10.2307_3346671"}
+{"searchstring": "Joe Uehlein - An Overture into the Future: The Music of Social Justice", "date": "2001-0", "filename": "2001_ocr_10.2307_40342309"}
+{"searchstring": "William E. Spellman - The Economics of Edward Alsworth Ross", "date": "1979-4", "filename": "1979_ocr_10.2307_3486894"}
+{"searchstring": "VICTORIA LAMONT - Cattle Branding and the Traffic in Women in Early Twentieth-Century Westerns by Women", "date": "2005-1", "filename": "2005_ocr_10.2307_25679525"}
+{"searchstring": "Hagit Borer - The Ups and Downs of Hebrew Verb Movement", "date": "1995-8", "filename": "1995_ocr_10.2307_4047844"}
+{"searchstring": "George Woodcock - Half a Life of Editing", "date": "1981-7", "filename": "1981_ocr_10.2307_27543876"}
+{"searchstring": "Laura E. Donaldson - (Ex)Changing (Wo)Man: Towards a Materialist-Feminist Semiotics", "date": "1988-2", "filename": "1988_ocr_10.2307_1354242"}
+{"searchstring": "Michael Kazin - The Agony and Romance of the American Left", "date": "1995-2", "filename": "1995_ocr_10.2307_2169867"}
+{"searchstring": "Martin Bauml Duberman - "I Am Not Contented": Female Masochism and Lesbianism in Early Twentieth-Century New England", "date": "1980-7", "filename": "1980_ocr_10.2307_3173849"}
+{"searchstring": "Thad M. Van Bueren and  Sarah A. Tarlow - The Interpretive Potential of Utopian Settlements", "date": "2006-1", "filename": "2006_ocr_10.2307_25617312"}
+{"searchstring": "Kathy E. Ferguson - Assemblages of Anarchists: Political Aesthetics in <i>Mother Earth</i>", "date": "2014-2", "filename": "2014_ocr_10.5325_jmodeperistud.4.2.0171"}
+{"searchstring": "Arthur J. Altmeyer - The Wisconsin Idea and Social Security", "date": "1958-0", "filename": "1958_ocr_10.2307_4633340"}
+{"searchstring": "Benjamin Harshaw (Hrushovski) - Fictionality and Fields of Reference: Remarks on a Theoretical Framework", "date": "1984-1", "filename": "1984_ocr_10.2307_1771931"}
+{"searchstring": "Joseph J. Fahey - A Peace Pilgrimage: From Total War to World Community", "date": "2009-4", "filename": "2009_ocr_10.2307_40468574"}
+{"searchstring": "carol horwitz - middle america and the reproductive rights backlash", "date": "1997-1", "filename": "1997_ocr_10.2307_41332139"}
+{"searchstring": "Judy Greenway - No Place for Women? Anti-Utopianism and the Utopian Politics of the 1890s", "date": "2002-1", "filename": "2002_ocr_10.2307_3554316"}
+{"searchstring": "Martha A. Ackelsberg - Spirituality as a Resource for Activism: A Response to Michelle Lelwica", "date": "1998-0", "filename": "1998_ocr_10.2307_25002344"}
+{"searchstring": "LYNNE SHARON SCHWARTZ - True Confessions of a Reader", "date": "1990-0", "filename": "1990_ocr_10.2307_40548476"}
+{"searchstring": "Roy Rosenzweig - American labor history: a conspiracy of silence?", "date": "1987-8", "filename": "1987_ocr_10.2307_41842996"}
+{"searchstring": "Anca Parvulescu - Beyond Marriage: The Couple", "date": "2004-0", "filename": "2004_ocr_10.2307_41389704"}
+{"searchstring": "Gary L. Downey - Risk in Culture: The American Conflict over Nuclear Power", "date": "1986-1", "filename": "1986_ocr_10.2307_656378"}
+{"searchstring": "Robert V. Daniels - The Kronstadt Revolt of 1921: A Study in the Dynamics of Revolution", "date": "1951-2", "filename": "1951_ocr_10.2307_2492031"}
+{"searchstring": "HAYDEN CARRUTH and  Anthony Robbins - An Interview by Anthony Robbins", "date": "1993-9", "filename": "1993_ocr_10.2307_27781266"}
+{"searchstring": "Helene Gardel - health conference: planning", "date": "1972-7", "filename": "1972_ocr_10.2307_25783420"}
+{"searchstring": "James H. Justus - A New Liberalism to Pay Old Debts", "date": "1960-0", "filename": "1960_ocr_10.2307_4610273"}
+{"searchstring": "Victoria Redel - After Prison", "date": "1986-7", "filename": "1986_ocr_10.2307_4019950"}
+{"searchstring": "Catharine R. Stimpson and  Alix Kates Shulman and  Kate Millett and  Kate Millett - "Sexual Politics:" Twenty Years Later", "date": "1991-0", "filename": "1991_ocr_10.2307_40003299"}
+{"searchstring": "Paul Buhle - Anarchism and American Labor", "date": "1983-4", "filename": "1983_ocr_10.2307_27671439"}
+{"searchstring": "Jennifer Ratner-Rosenhagen - Anti-Intellectualism as Romantic Discourse", "date": "2009-4", "filename": "2009_ocr_10.2307_40543934"}
+{"searchstring": "Ronald J. Zboray - dBASE III Plus and the MARC AMC Format: Problems and Possibilities", "date": "1987-4", "filename": "1987_ocr_10.2307_40294545"}
+{"searchstring": "MONICA BARRON - Introduction—Special Cluster on Grief and Pedagogy", "date": "2009-1", "filename": "2009_ocr_10.5406_femteacher.20.1.0028"}
+{"searchstring": "John C. Blankenagel - Early Reception of Hauptmann's Die Weber in the United States", "date": "1953-5", "filename": "1953_ocr_10.2307_2910092"}
+{"searchstring": "robert j. goldstein - the anarchist scare of 1908: a sign of tensions in the progressive era", "date": "1974-0", "filename": "1974_ocr_10.2307_40644042"}
+{"searchstring": "Martin Blatt - History Workshop on Immigrant Anarchism", "date": "1982-0", "filename": "1982_ocr_10.2307_4288442"}
+{"searchstring": "Barbara Foley - From U.S.A. to Ragtime: Notes on the Forms of Historical Consciousness in Modern Fiction", "date": "1978-3", "filename": "1978_ocr_10.2307_2925523"}
+{"searchstring": "Leila J. Rupp - "Imagine My Surprise": Women's Relationships in Historical Perspective", "date": "1980-0", "filename": "1980_ocr_10.2307_3346519"}
+{"searchstring": "Linda M. Grasso - Inventive Desperation: Anger, Violence, and Belonging in Mary Wilkins Freeman's and Sui Sin Far's Murderous Mother Stories", "date": "2005-0", "filename": "2005_ocr_10.2307_27747180"}
+{"searchstring": "J. H. M. Laslett - Haymarket, Henry George, and the Labor Upsurge in Britain and America during the Late 1880s", "date": "1986-4", "filename": "1986_ocr_10.2307_27671627"}
+{"searchstring": "Mary Hawkesworth - From Constitutive Outside to the Politics of Extinction: Critical Race Theory, Feminist Theory, and Political Theory", "date": "2010-9", "filename": "2010_ocr_10.2307_25747969"}
+{"searchstring": "William Lazenbatt - Taking Uncivil Liberties: Body and Body Politic in the Fiction of E. L. Doctorow", "date": "1993-1", "filename": "1993_ocr_10.2307_30003222"}
+{"searchstring": "James S. Kaminsky - JOHN DEWEY, GOTHIC AND MODERN", "date": "2010-9", "filename": "2010_ocr_10.2307_40864303"}
+{"searchstring": "Richard Drinnon - Thoreau's Politics of the Upright Man", "date": "1962-0", "filename": "1962_ocr_10.2307_25086956"}
+{"searchstring": "John R. Chambers and  Robert S. Baron and  Mary L. Inman - Misperceptions in Intergroup Conflict: Disagreeing about What We Disagree About", "date": "2006-1", "filename": "2006_ocr_10.2307_40064347"}
+{"searchstring": "ALLEN GUTTMANN - Jewish Radicals, Jewish Writers", "date": "1963-0", "filename": "1963_ocr_10.2307_41209131"}
+{"searchstring": "Will Baker - Tony and the Cows", "date": "1999-2", "filename": "1999_ocr_10.2307_41401745"}
+{"searchstring": "Nancy L. Green - Gender and Jobs in the Jewish Community: Europe at the Turn of the Twentieth Century", "date": "2002-1", "filename": "2002_ocr_10.2307_4467628"}
+{"searchstring": "Erin McKenna - PRAGMATISM AND FEMINISM: ENGAGED PHILOSOPHY", "date": "2003-1", "filename": "2003_ocr_10.2307_27944271"}
+{"searchstring": "Peter Waterman - The New Internationalisms: A More Real Thing than Big, Big Coke?", "date": "1988-7", "filename": "1988_ocr_10.2307_40241099"}
+{"searchstring": "Jaap Kloosterman - The International Institute of Social History", "date": "1987-1", "filename": "1987_ocr_10.2307_23196067"}
+{"searchstring": "ELLEN WILLIS - Coming Down Again: After the Age of Excess", "date": "1989-1", "filename": "1989_ocr_10.2307_40548033"}
+{"searchstring": "Ralph H. Lutz - The History of the Concept of Freedom", "date": "1950-4", "filename": "1950_ocr_10.2307_40220220"}
+{"searchstring": "Tyler Anbinder - Review", "date": "2011-9", "filename": "2011_ocr_10.5406_jamerethnhist.31.1.0094"}
+{"searchstring": "Kevin MacDonald - Jewish Involvement in Shaping American Immigration Policy, 1881-1965: A Historical Review", "date": "1998-3", "filename": "1998_ocr_10.2307_27503587"}
+{"searchstring": "Chris Dodge - Emma Goldman, Thoreau, and Anarchists", "date": "2004-7", "filename": "2004_ocr_10.2307_23402731"}
+{"searchstring": "Lauṙa Shahera - The Girl in the Striped Socks", "date": "1978-4", "filename": "1978_ocr_10.2307_20158882"}
+{"searchstring": "Nancy J. Rosenbloom - Toward a Middle-Class Cinema: Thomas Ince and the Social Problem Film, 1914-1920", "date": "2009-0", "filename": "2009_ocr_10.2307_40542879"}
+{"searchstring": "mecca reliance - the feminist papers: from adams to de beauvoir", "date": "1974-5", "filename": "1974_ocr_10.2307_25771883"}
+{"searchstring": "MICHAEL A. GORDON - "TO MAKE A CLEAN SWEEP": MILWAUKEE CONFRONTS AN ANARCHIST SCARE IN 1917", "date": "2009-2", "filename": "2009_ocr_10.2307_20699214"}
+{"searchstring": "Judith Plaskow - Dealing with Difference without and Within", "date": "2003-4", "filename": "2003_ocr_10.2307_25002463"}
+{"searchstring": "Daniel Bell - The Misreading Of Ideology: The Social Determination Of Ideas In Marx's Work", "date": "1990-1", "filename": "1990_ocr_10.2307_41035496"}
+{"searchstring": "Allan Antliff - Carl Zigrosser and the Modern School: Nietzsche, Art, and Anarchism", "date": "1994-1", "filename": "1994_ocr_10.2307_1557542"}
+{"searchstring": "Stuart Davis - An Interview with Stuart Davis", "date": "1991-1", "filename": "1991_ocr_10.2307_1557714"}
+{"searchstring": "ANN UHRY ABRAMS - The Ferrer Center: New York's Unique Meeting of Anarchism and the Arts", "date": "1978-7", "filename": "1978_ocr_10.2307_23169746"}
+{"searchstring": "Margaret Morganroth Gullette - Inventing the "Postmaternal" Woman, 1898-1927: Idle, Unwanted, and out of a Job", "date": "1995-7", "filename": "1995_ocr_10.2307_3178261"}
+{"searchstring": "Pamela Grassau - RESILIENCE AND "TURNING IT OUT": How the Arts Engage with Relational and Structural Aspects of Oppression", "date": "2009-1", "filename": "2009_ocr_10.2307_41669916"}
+{"searchstring": "Claudia Card - Is Penalty Enhancement a Sound Idea?", "date": "2001-3", "filename": "2001_ocr_10.2307_3505239"}
+{"searchstring": "Esther Sánchez-Pardo - CANONIZATION OR EXCLUSION?: DOROTHY LIVESAY'S WAYWARD MODERNISM FROM THE 1940S", "date": "2000-2", "filename": "2000_ocr_10.2307_41054997"}
+{"searchstring": "Nancy Berke - Ethnicity, Class, and Gender in Lola Ridge's "The Ghetto"", "date": "1999-1", "filename": "1999_ocr_10.2307_25679290"}
+{"searchstring": "Waldemar Gurian - Russia and the Peace", "date": "1945-4", "filename": "1945_ocr_10.2307_1404484"}
+{"searchstring": "Charlotte Goodman - Carol B. Schoen: Anzia Yezierska", "date": "1983-1", "filename": "1983_ocr_10.2307_41205609"}
+{"searchstring": "Zosa Szajkowski - Jews and the Elihu Root Mission to Russia. 1917", "date": "1969-1", "filename": "1969_ocr_10.2307_3622524"}
+{"searchstring": "Don Herzog - Romantic Anarchism and Pedestrian Liberalism", "date": "2007-6", "filename": "2007_ocr_10.2307_20452558"}
+{"searchstring": "Mary A. Giunta - The NHPRC: Its Influence on Documentary Editing, 1964-1984", "date": "1986-4", "filename": "1986_ocr_10.2307_40292982"}
+{"searchstring": "William M. Curtis - Members Only? Critical Response to Herr's "Defense of Nonliberal Nationalism"", "date": "2007-6", "filename": "2007_ocr_10.2307_20452559"}
+{"searchstring": "Kent Greenawalt - Speech and Crime", "date": "1980-0", "filename": "1980_ocr_10.2307_828074"}
+{"searchstring": "Alix Kates Shulman - Thoughts at 70: A Woman with a Past? Or One with a Future? What Is Old, Anyway?", "date": "2003-7", "filename": "2003_ocr_10.2307_4024230"}
+{"searchstring": "James A. Tyner - Territoriality, Social Justice and Gendered Revolutions in the Speeches of Malcolm X", "date": "2004-9", "filename": "2004_ocr_10.2307_3804495"}
+{"searchstring": "Thomas G. Weiss - The Tradition of Philosophical Anarchism and Future Directions in World Policy", "date": "1975-1", "filename": "1975_ocr_10.2307_422897"}
+{"searchstring": "Wayne M. Butler - Writing to Learn History On-Line", "date": "1995-9", "filename": "1995_ocr_10.2307_30185850"}
+{"searchstring": "Eric Cheyfitz - The Irresistibleness of Great Literature: Reconstructing Hawthorne's Politics", "date": "1994-0", "filename": "1994_ocr_10.2307_489826"}
+{"searchstring": "John Slatter - The Correspondence of P. A. Kropotkin as Historical Source Material", "date": "1994-4", "filename": "1994_ocr_10.2307_4211477"}
+{"searchstring": "Florence Howe and  Julia Penelope and  Dale Guilford and  Lahna F. Diskin - Facets: What 1985 Classroom Teachers Should Know about Women's Studies", "date": "1985-3", "filename": "1985_ocr_10.2307_817097"}
+{"searchstring": "Linda Schott - The Woman's Peace Party and the Moral Basis for Women's Pacifism", "date": "1985-1", "filename": "1985_ocr_10.2307_3346048"}
+{"searchstring": "Ann Lynch - of natural causes", "date": "1981-1", "filename": "1981_ocr_10.2307_25774024"}
+{"searchstring": "Mary Meigs and  Lori Saint-Martin and  Mary Lefkowitz and  Marilyn French and  Linda Newman - Letters", "date": "1985-1", "filename": "1985_ocr_10.2307_4019628"}
+{"searchstring": " - Book Notes", "date": "1984-3", "filename": "1984_ocr_10.2307_1899824"}
+{"searchstring": "Faith Gabelnick and  Carol Pearson - Finding Their Voices", "date": "1985-4", "filename": "1985_ocr_10.2307_25680541"}
+{"searchstring": "Dan La Botz - American "Slackers" in the Mexican Revolution: International Proletarian Politics in the Midst of a National Revolution", "date": "2006-4", "filename": "2006_ocr_10.2307_4491137"}
+{"searchstring": "Wendy Gunther-Canada - Teaching Mary Wollstonecraft: Women and the Canonical Conversation of Political Thought", "date": "1997-4", "filename": "1997_ocr_10.2307_40545771"}
+{"searchstring": "Steven E. Barkan - Political Trials and the "Pro Se" Defendant in the Adversary System", "date": "1977-2", "filename": "1977_ocr_10.2307_800084"}
+{"searchstring": "Cathy N. Davidson - Love Letters for Grandma", "date": "1992-1", "filename": "1992_ocr_10.2307_4021408"}
+{"searchstring": " - Book Notes", "date": "1975-6", "filename": "1975_ocr_10.2307_1901410"}
+{"searchstring": "Lisa Duggan - Lesbianism and American History: A Brief Source Review", "date": "1979-0", "filename": "1979_ocr_10.2307_3346156"}
+{"searchstring": "Emma Gilberthorp - Fasu Solidarity: A Case Study of Kin Networks, Land Tenure, and Oil Extraction in Kutubu, Papua New Guinea", "date": "2007-3", "filename": "2007_ocr_10.2307_4496591"}
+{"searchstring": "Michael Munk - The "Portland Period" of Artist Carl Walters", "date": "2000-7", "filename": "2000_ocr_10.2307_20615050"}
+{"searchstring": "Eugenia DeLamotte - Refashioning the Mind: The Revolutionary Rhetoric of Voltairine de Cleyre", "date": "2003-1", "filename": "2003_ocr_10.2307_25679454"}
+{"searchstring": "Jacqueline REIMEN - Radical intellectuals and repression of radicalism during the First World War", "date": "1976-0", "filename": "1976_ocr_10.2307_20872643"}
+{"searchstring": " - herstory: women testify for equal rights", "date": "1992-5", "filename": "1992_ocr_10.2307_20834074"}
+{"searchstring": "Stephen H. Norwood - The Student as Strikebreaker: College Youth and the Crisis of Masculinity in the Early Twentieth Century", "date": "1994-2", "filename": "1994_ocr_10.2307_3788901"}
+{"searchstring": "Lynn DeVore - The Backgrounds of "Nightwood": Robin, Felix, and Nora", "date": "1983-3", "filename": "1983_ocr_10.2307_3831198"}
+{"searchstring": "Betsy Auleta and  Bobbie Goldstone - happy birthday, emma", "date": "1970-7", "filename": "1970_ocr_10.2307_25782988"}
+{"searchstring": "ELLEN SCHIFF - From Black and White to Red and Pink: Political Themes on the American Jewish Stage", "date": "1989-4", "filename": "1989_ocr_10.2307_41205704"}
+{"searchstring": "Kathryn Palmer and  Stephen E. Lucas - On Trial: Conflicting Versions of Emma Goldman's Address to the Jury", "date": "2008-4", "filename": "2008_ocr_10.2307_41940342"}
+{"searchstring": "Dan McKanan - The Implicit Religion of Radicalism: Socialist Party Theology, 1900–1934", "date": "2010-9", "filename": "2010_ocr_10.2307_27919235"}
+{"searchstring": "Alice Kessler-Harris and  Ann Washington Craton - The Autobiography of Ann Washington Craton", "date": "1976-7", "filename": "1976_ocr_10.2307_3173258"}
+{"searchstring": "Stanford Pritchard - My Friend B", "date": "1990-1", "filename": "1990_ocr_10.2307_4336201"}
+{"searchstring": "Michael Kazin - WHAT LIES BENEATH: Bush and the Liberal Idealists", "date": "2008-1", "filename": "2008_ocr_10.2307_20672811"}
+{"searchstring": "Alan Raucher - American Anti-Imperialists and the Pro-India Movement, 1900-1932", "date": "1974-2", "filename": "1974_ocr_10.2307_3637592"}
+{"searchstring": "Janet Beer and  Katherine Joslin - Diseases of the Body Politic: White Slavery in Jane Addams' "A New Conscience and an Ancient Evil" and Selected Short Stories by Charlotte Perkins Gilman", "date": "1999-4", "filename": "1999_ocr_10.2307_27556532"}
+{"searchstring": "Tony Kushner - The Genius of O'Neill", "date": "2004-1", "filename": "2004_ocr_10.2307_29784751"}
+{"searchstring": "Carl Rollyson - Rebecca West and the God That Failed", "date": "1996-7", "filename": "1996_ocr_10.2307_40259329"}
+{"searchstring": "Vivian Gornick - The Princess and the Pea", "date": "1997-0", "filename": "1997_ocr_10.2307_4384661"}
+{"searchstring": "Reg Whitaker - Official Repression of Communism during World War II", "date": "1986-4", "filename": "1986_ocr_10.2307_25142596"}
+{"searchstring": "Chicken Lady - chicken lady: droppings...", "date": "1975-1", "filename": "1975_ocr_10.2307_25772066"}
+{"searchstring": "Maryann Ayim - In Praise of Clutter as a Necessary Part of the Feminist Perspective", "date": "1991-7", "filename": "1991_ocr_10.2307_3810106"}
+{"searchstring": "Michael Tavel Clarke - THE TASK STILL REMAINS FOR A JEWISH-AMERICAN WOMAN TO WRITE HER MEMORIES OF A JEWISH GIRLHOOD", "date": "1998-1", "filename": "1998_ocr_10.2307_41201362"}
+{"searchstring": "Vernon Young - Film Chronicle: Some Day in Tahiti", "date": "1982-7", "filename": "1982_ocr_10.2307_3850795"}
+{"searchstring": "Thomas A. Riley - New England Anarchism in Germany", "date": "1945-3", "filename": "1945_ocr_10.2307_361389"}
+{"searchstring": "Sarah E. Sharbach - A Woman Acting Alone: Louise Olivereau and the First World War", "date": "1987-1", "filename": "1987_ocr_10.2307_40490268"}
+{"searchstring": "ROGER BELL - Documentary Films and American Studies: A Guide to Recent Acquisitions by Australian Libraries", "date": "1987-7", "filename": "1987_ocr_10.2307_41053448"}
+{"searchstring": "Alfred Stieglitz and  Bettina L. Knapp - Alfred Stieglitz's Letters to David Liebovitz 1923-1930", "date": "1985-7", "filename": "1985_ocr_10.2307_3194439"}
+{"searchstring": "Seth Moglen - Excess and Utopia: Meditations on Moravian Bethlehem", "date": "2012-1", "filename": "2012_ocr_10.5406_historypresent.2.2.0122"}
+{"searchstring": "Ellen Dubois and  Mari Jo Buhle and  Temma Kaplan and  Gerda Lerner and  Carroll Smith-Rosenberg - Politics and Culture in Women's History: A Symposium", "date": "1980-4", "filename": "1980_ocr_10.2307_3177649"}
+{"searchstring": "Richard Kostelanetz - Excerpts from Texts & Proposals for Radio (In Progress Through the 1980s)", "date": "1984-0", "filename": "1984_ocr_10.2307_832903"}
+{"searchstring": "John Allett - "MRS. WARREN'S PROFESSION" AND THE POLITICS OF PROSTITUTION", "date": "1999-1", "filename": "1999_ocr_10.2307_40681591"}
+{"searchstring": "Martin Durham - British Revolutionaries and the Suppression of the Left in Lenin's Russia, 1918-1924", "date": "1985-4", "filename": "1985_ocr_10.2307_260531"}
+{"searchstring": "David Traxel - Art and Politics in 1912", "date": "1977-1", "filename": "1977_ocr_10.2307_1557442"}
+{"searchstring": "Richard Peet - A Sign Taken for History: Daniel Shays' Memorial in Petersham, Massachusetts", "date": "1996-3", "filename": "1996_ocr_10.2307_2563945"}
+{"searchstring": "D. Novak - The Place of Anarchism in the History of Political Thought", "date": "1958-7", "filename": "1958_ocr_10.2307_1404980"}
+{"searchstring": "Frederick L. Honhart and  Terry Eastwood and  Richard Szary and  Alan Tucker and  Alice G. Kalush and  Ronald J. Zboray - The Forum", "date": "1988-1", "filename": "1988_ocr_10.2307_40293190"}
+{"searchstring": "MARGOT NORRIS - DOING DJUNA JUSTICE: THE CHALLENGES OF THE BARNES BIOGRAPHY", "date": "1996-2", "filename": "1996_ocr_10.2307_29533167"}
+{"searchstring": "Joshua M. Price - The Apotheosis of Home and the Maintenance of Spaces of Violence", "date": "2002-0", "filename": "2002_ocr_10.2307_3810908"}
+{"searchstring": "Robert W. Kern - Anarchist Principles and Spanish Reality: Emma Goldman as a Participant in the Civil War 1936-39", "date": "1976-7", "filename": "1976_ocr_10.2307_260259"}
+{"searchstring": "David Spitz - Democracy and the Problem of Civil Disobedience", "date": "1954-6", "filename": "1954_ocr_10.2307_1951202"}
+{"searchstring": "S. M. E. - The Way It Was", "date": "1981-1", "filename": "1981_ocr_10.2307_20385878"}
+{"searchstring": " - reproductive rights national network: rough road ahead", "date": "1981-8", "filename": "1981_ocr_10.2307_25793842"}
+{"searchstring": "Vincent Vilmain - A Woman within Zionism: The Path of Myriam Schach (1867–1956)", "date": "2008-0", "filename": "2008_ocr_10.2979_NAS.2008.-.16.174"}
+{"searchstring": "Dolle Mina - dolle mina", "date": "1971-3", "filename": "1971_ocr_10.2307_25771216"}
+{"searchstring": "Bram Dijkstra - The Androgyne in Nineteenth-Century Art and Literature", "date": "1974-1", "filename": "1974_ocr_10.2307_1769675"}
+{"searchstring": "Leon Fink - "Intellectuals" versus "Workers": Academic Requirements and the Creation of Labor History", "date": "1991-4", "filename": "1991_ocr_10.2307_2163215"}
+{"searchstring": "Alix Kates Shulman - From the Novel Burning Questions: "The Happiness Question"", "date": "1984-4", "filename": "1984_ocr_10.2307_466548"}
+{"searchstring": "Walter Laqueur - Interpretations of Terrorism: Fact, Fiction and Political Science", "date": "1977-1", "filename": "1977_ocr_10.2307_260235"}
+{"searchstring": "JANE FONDA - "I Prefer Films that Strengthen People": AN INTERVIEW WITH JANE FONDA", "date": "1975-1", "filename": "1975_ocr_10.2307_41685744"}
+{"searchstring": "Laura A. Pinhey - The Progressive Era: An ERIC/ChESS Sample", "date": "1999-4", "filename": "1999_ocr_10.2307_25163294"}
+{"searchstring": "William E. Cain - A Lost Voice of Dissent: H. L. Mencken in Our Time", "date": "1996-4", "filename": "1996_ocr_10.2307_27547187"}
+{"searchstring": "Aaron Chandler - Senator Lawrence Sherman's Role in the Defeat of the Treaty of Versailles", "date": "2001-0", "filename": "2001_ocr_10.2307_40193505"}
+{"searchstring": "Amy Knight - Female Terrorists in the Russian Socialist Revolutionary Party", "date": "1979-4", "filename": "1979_ocr_10.2307_128603"}
+{"searchstring": "Kenneth M. Price - The Mediating "Whitman": Edith Wharton, Morton Fullerton, and the Problem of Comradeship", "date": "1994-2", "filename": "1994_ocr_10.2307_40755051"}
+{"searchstring": " - The Living Theatre in "Prometheus": A Collective Creation", "date": "1981-1", "filename": "1981_ocr_10.2307_3245164"}
+{"searchstring": "Pamela L. Geller - Identity and Difference: Complicating Gender in Archaeology", "date": "2009-1", "filename": "2009_ocr_10.2307_20622641"}
+{"searchstring": "Mitch Kachun - "Big Jim" Parker and the Assassination of William McKinley: Patriotism, Nativism, Anarchism, and the Struggle for African American Citizenship", "date": "2010-1", "filename": "2010_ocr_10.2307_27821454"}
+{"searchstring": "Neil Goodwin - "Like a Brother": Grenville Goodwin's Apache Years, 1928-1939", "date": "2001-4", "filename": "2001_ocr_10.2307_40170162"}
+{"searchstring": "Ralph Armbruster-Sandoval - Is Another World Possible? Is Another Classroom Possible? Radical Pedagogy, Activism, and Social Change", "date": "2005-1", "filename": "2005_ocr_10.2307_29768306"}
+{"searchstring": "Estera Milman - Futurism as a Submerged Paradigm for Artistic Activism and Practical Anarchism", "date": "1996-7", "filename": "1996_ocr_10.2307_3190375"}
+{"searchstring": "Robert E. Riegel - Changing American Attitudes Toward Prostitution (1800-1920)", "date": "1968-7", "filename": "1968_ocr_10.2307_2708454"}
+{"searchstring": "Marcus Bullock and  Jessica Benjamin - Generations and Revolutions: A Family History recalled by Jessica Benjamin", "date": "1996-0", "filename": "1996_ocr_10.2307_41389431"}
+{"searchstring": "Elsa Gidlow - Memoirs", "date": "1980-4", "filename": "1980_ocr_10.2307_3177652"}
+{"searchstring": "Sanford E. Marovitz and  Lewis Fried - Abraham Cahan (1860-1951): An Annotated Bibliography", "date": "1970-7", "filename": "1970_ocr_10.2307_27747713"}
+{"searchstring": "Staff of the National Archives Regional Archives System - Fighting Words: Finding the First Amendment in Lower Federal Court Records", "date": "1991-6", "filename": "1991_ocr_10.2307_2078096"}
+{"searchstring": "Richard A. Cameron - The Concept of a National Records Program and Its Continued Relevance for a New Century", "date": "2000-4", "filename": "2000_ocr_10.2307_40283819"}
+{"searchstring": "Eileen M. Hunt - The Family as Cave, Platoon and Prison: The Three Stages of Wollstonecraft's Philosophy of the Family", "date": "2002-1", "filename": "2002_ocr_10.2307_1408695"}
+{"searchstring": "Earle Labor and  Robert C. Leitz and  III - Jack London on Alexander Berkman: An Unpublished Introduction", "date": "1989-0", "filename": "1989_ocr_10.2307_2926831"}
+{"searchstring": "Gerd-Rainer Horn - The Language of Symbols and the Barriers of Language: Foreigners' Perceptions of Social Revolution (Barcelona 1936-1937)", "date": "1990-4", "filename": "1990_ocr_10.2307_4288958"}
+{"searchstring": "Ken McLeod - Bohemian Rhapsodies: Operatic Influences on Rock Music", "date": "2001-5", "filename": "2001_ocr_10.2307_853651"}
+{"searchstring": "Edward de Grazia - The Haymarket Bomb", "date": "2006-1", "filename": "2006_ocr_10.1525_lal.2006.18.3.283"}
+{"searchstring": "Barbara Gates and  Adria Reich - Closeup: Alternative High School Course", "date": "1973-4", "filename": "1973_ocr_10.2307_40041840"}
+{"searchstring": "Robert R. Spillane - How to Raise Female Dragon Slayers", "date": "1975-3", "filename": "1975_ocr_10.2307_20297984"}
+{"searchstring": "Donald F. Tingley - The "Robin's Egg Renaissance": Chicago and the Arts, 1910-1920", "date": "1970-4", "filename": "1970_ocr_10.2307_40190602"}
+{"searchstring": "C. D. Wright - The New American Ode", "date": "1989-7", "filename": "1989_ocr_10.2307_4612065"}
+{"searchstring": "Lauren Friesen - Dramatic Arts and Mennonite Culture", "date": "1996-0", "filename": "1996_ocr_10.2307_467977"}
+{"searchstring": "Blanche Wiesen Cook - Biographer and Subject: A Critical Connection", "date": "1983-4", "filename": "1983_ocr_10.2307_40004662"}
+{"searchstring": "Michael Davidson - Introduction: Women Writing Disability", "date": "2013-1", "filename": "2013_ocr_10.5250_legacy.30.1.0001"}
+{"searchstring": "Ben E. Bailey - Opera/South: A Brief History", "date": "1985-4", "filename": "1985_ocr_10.2307_1214793"}
+{"searchstring": "Allan Antliff - Anarchy, Power, and Poststructuralism", "date": "2007-1", "filename": "2007_ocr_10.2307_25195125"}
+{"searchstring": "Anca Parvulescu - European Kinship: Eastern European Women Go to Market", "date": "2011-1", "filename": "2011_ocr_10.1086_657290"}
+{"searchstring": "Jay A. Gertzman - The Promising Jewish Poetry of a Pariah: Samuel Roth", "date": "2009-1", "filename": "2009_ocr_10.2307_41206115"}
+{"searchstring": "Leger Grindon - Witness to Hollywood: Oral Testimony and Historical Interpretation in Warren Beatty's "Reds"", "date": "1993-3", "filename": "1993_ocr_10.2307_3815112"}
+{"searchstring": "Lori Holder-Webb and  Jaffrey R. Cohen - The Association between Disclosure, Distress, and Failure", "date": "2007-0", "filename": "2007_ocr_10.2307_25123995"}
+{"searchstring": "Jonathan Rosenbaum - Historical Meditations in Two Films by John Gianvito", "date": "2008-2", "filename": "2008_ocr_10.1525_fq.2008.62.2.26"}
+{"searchstring": "cathy heifetz - getting healthy at ufo", "date": "1975-3", "filename": "1975_ocr_10.2307_25772183"}
+{"searchstring": "Christopher Capozzola - Thorstein Veblen and the Politics of War, 1914-1920", "date": "1999-2", "filename": "1999_ocr_10.2307_20020022"}
+{"searchstring": "Florence Boos - William Morris's "Socialist Diary"", "date": "1982-4", "filename": "1982_ocr_10.2307_4288402"}
+{"searchstring": "Garland E. Allen - The biological basis of crime: An historical and methodological study", "date": "2001-3", "filename": "2001_ocr_10.1525_hsps.2001.31.2.183"}
+{"searchstring": "ETHERIDGE KNIGHT - On The Removal Of The Fascist American Right From Power", "date": "1986-7", "filename": "1986_ocr_10.2307_27778035"}
+{"searchstring": "Marian J. Morton - Fallen Women, Federated Charities, and Maternity Homes, 1913-1973", "date": "1988-3", "filename": "1988_ocr_10.2307_30011947"}
+{"searchstring": "Lisa Marcus - Feminism's Daughter", "date": "1998-2", "filename": "1998_ocr_10.2307_4022853"}
+{"searchstring": "Jose C. Moya - The Positive Side of Stereotypes: Jewish Anarchists in Early-Twentieth-Century Buenos Aires", "date": "2004-1", "filename": "2004_ocr_10.2307_20100922"}
+{"searchstring": "angie manzano and  karla mantilla - Why Divorce is Bad for Kids", "date": "2000-1", "filename": "2000_ocr_10.2307_20836715"}
+{"searchstring": "Virginia Eskridge and  Alix Kates Shulman and  Linda McCarriston and  D. Marillia Hinds - Letters", "date": "2003-0", "filename": "2003_ocr_10.2307_4024265"}
+{"searchstring": "Shari Benstock - From the Editor's Perspective: Women's Literary History: To Be Continued", "date": "1986-0", "filename": "1986_ocr_10.2307_463993"}
+{"searchstring": "Daniel Soyer - Back to the Future: American Jews Visit the Soviet Union in the 1920s and 1930s", "date": "2000-4", "filename": "2000_ocr_10.2307_4467586"}
+{"searchstring": "Alix Kates Shulman - Sex and Power: Sexual Bases of Radical Feminism", "date": "1980-7", "filename": "1980_ocr_10.2307_3173832"}
+{"searchstring": "Gail Gelburd - John Sloan's Veiled Politics and Art", "date": "2008-1", "filename": "2008_ocr_10.2307_25144509"}
+{"searchstring": "Abram Lerner and  Bartlett Cowdrey and  Abraham Walkowitz - A Tape Recorded Interview with Abraham Walkowitz", "date": "1969-1", "filename": "1969_ocr_10.2307_1557052"}
+{"searchstring": "Ronald J. Zboray - The Transportation Revolution and Antebellum Book Distribution Reconsidered", "date": "1986-4", "filename": "1986_ocr_10.2307_2712593"}
+{"searchstring": "Karen Engle - Feminism and Its (Dis)contents: Criminalizing Wartime Rape in Bosnia and Herzegovina", "date": "2005-0", "filename": "2005_ocr_10.2307_3396669"}
+{"searchstring": "Susan Ware - Writing Women's Lives: One Historian's Perspective", "date": "2010-1", "filename": "2010_ocr_10.2307_20685513"}
+{"searchstring": "JULIE HERRADA - LETTERS TO THE UNABOMBER: A CASE STUDY AND SOME REFLECTIONS", "date": "2003-1", "filename": "2003_ocr_10.2307_41102072"}
+{"searchstring": "KARL SHAPIRO - The Critic Outside", "date": "1981-4", "filename": "1981_ocr_10.2307_41210717"}
+{"searchstring": " - Annual Bibliography: Writings for Archivists: 1989", "date": "1991-4", "filename": "1991_ocr_10.2307_40293556"}
+{"searchstring": "PAULA E. GEYH and  PAULA A. GEYH - Triptych Time: The Experiential Historiography of Meridel Le Sueur's "The Dread Road"", "date": "2001-1", "filename": "2001_ocr_10.2307_23126417"}
+{"searchstring": "Melanie Kaye and  Kantrowitz - Some Pieces of Jewish Left: 1987", "date": "1990-4", "filename": "1990_ocr_10.2307_40357393"}
+{"searchstring": "Jules Zanger - "Harbours Like Sonnets" : Literary Maps and Cartographic Symbols", "date": "1982-2", "filename": "1982_ocr_10.2307_41399109"}
+{"searchstring": "Joan Jacobs Brumberg - "Something Happens to Girls": Menarche and the Emergence of the Modern American Hygienic Imperative", "date": "1993-7", "filename": "1993_ocr_10.2307_3704181"}
+{"searchstring": "Carol Vanderveer Hamilton - REVOLUTION FROM WITHIN: CONRAD'S NATURAL ANARCHISTS", "date": "1994-0", "filename": "1994_ocr_10.2307_20874055"}
+{"searchstring": "jacy - vandalism at emma's", "date": "1975-7", "filename": "1975_ocr_10.2307_25772286"}
+{"searchstring": "Loren Kruger - Cold Chicago: Uncivil Modernity, Urban Form, and Performance in the Upstart City", "date": "2009-0", "filename": "2009_ocr_10.2307_25599491"}
+{"searchstring": "Elizabeth J. Clapp - Welfare and the Role of Women: The Juvenile Court Movement", "date": "1994-2", "filename": "1994_ocr_10.2307_27555835"}
+{"searchstring": "Paul B. Sheatsley and  Jacob J. Feldman - The Assassination of President Kennedy: A Preliminary Report on Public Reactions and Behavior", "date": "1964-7", "filename": "1964_ocr_10.2307_2746986"}
+{"searchstring": "Claire Bond Potter - Queer Hoover: Sex, Lies, and Political History", "date": "2006-9", "filename": "2006_ocr_10.2307_4629668"}
+{"searchstring": "Polina Barskova - Piranesi in Petrograd: Sources, Strategies, and Dilemmas in Modernist Depictions of the Ruins (1918-1921)", "date": "2006-2", "filename": "2006_ocr_10.2307_4148450"}
+{"searchstring": "Frances Doughty - Lesbian Biography, Biography of Lesbians", "date": "1979-0", "filename": "1979_ocr_10.2307_3346155"}
+{"searchstring": "Shirley J. Burton - The Espionage and Sedition Acts of 1917 and 1918: Sectional Interpretations in the United States District Courts of Illinois", "date": "1994-4", "filename": "1994_ocr_10.2307_40192770"}
+{"searchstring": "Ann Sargent-Wooster - Yvonne Rainer's "Journeys from Berlin/1971"", "date": "1980-6", "filename": "1980_ocr_10.2307_1145286"}
+{"searchstring": "Robin F. Bachin - At the Nexus of Labor and Leisure: Baseball, Nativism, and the 1919 Black Sox Scandal", "date": "2003-7", "filename": "2003_ocr_10.2307_3790358"}
+{"searchstring": "ROSELLEN BROWN - On Not Writing A Novel", "date": "1979-1", "filename": "1979_ocr_10.2307_27776307"}
+{"searchstring": "arlene meyers - a sticky arrest", "date": "1975-5", "filename": "1975_ocr_10.2307_25772225"}
+{"searchstring": "Carrie Lambert-Beatty - Make-Believe : Parafiction and Plausibility", "date": "2009-7", "filename": "2009_ocr_10.2307_40368563"}
+{"searchstring": "Chicken Lady - chicken lady: droppings...", "date": "1977-0", "filename": "1977_ocr_10.2307_25772610"}
+{"searchstring": "Norman J. Schmaltz - Forest Researcher: Raphael Zon, Part 2", "date": "1980-4", "filename": "1980_ocr_10.2307_4004502"}
+{"searchstring": "Christina Simmons - Women's Power in Sex Radical Challenges to Marriage in the Early-Twentieth-Century United States", "date": "2003-4", "filename": "2003_ocr_10.2307_3178485"}
+{"searchstring": "James J. Kenneally - Catholic and Feminist: A Biographical Approach", "date": "1984-4", "filename": "1984_ocr_10.2307_25153703"}
+{"searchstring": "Cedric B. Cowing - H. L. Mencken: The Case of the "Curdled" Progressive", "date": "1959-7", "filename": "1959_ocr_10.2307_2379421"}
+{"searchstring": "GERALD STERN - Climbing This Hill Again", "date": "1975-1", "filename": "1975_ocr_10.2307_27775123"}
+{"searchstring": "Thomas U. Walker - Mounting the Soapbox: Poetics, Rhetoric, and Laborlore at the Scene of Speaking", "date": "2006-1", "filename": "2006_ocr_10.2307_25474780"}
+{"searchstring": "Paul Buhle - A Comic Celebration: The 100th Anniversary of the IWW", "date": "2005-4", "filename": "2005_ocr_10.2307_40342532"}
+{"searchstring": "A. M. - Calcutta Diary", "date": "1992-7", "filename": "1992_ocr_10.2307_4398577"}
+{"searchstring": "Kay Sloan and  Lois Weber and  Phillips Smalley - The Hand That Rocks the Cradle: The Original Continuity, with Introduction", "date": "1987-1", "filename": "1987_ocr_10.2307_3814988"}
+{"searchstring": "Norma Fain Pratt - Transitions in Judaism: The Jewish American Woman Through the 1930s", "date": "1978-2", "filename": "1978_ocr_10.2307_2712404"}
+{"searchstring": "Marilyn R. Farwell - Toward a Definition of the Lesbian Literary Imagination", "date": "1988-0", "filename": "1988_ocr_10.2307_3174663"}
+{"searchstring": "ROCHELLE GURSTEIN - Emma Goldman and the Tragedy of Modem Love", "date": "2002-7", "filename": "2002_ocr_10.2307_40549425"}
+{"searchstring": "John Bell - The End of "Our Domestic Resurrection Circus": Bread and Puppet Theater and Counterculture Performance in the 1990s", "date": "1999-0", "filename": "1999_ocr_10.2307_1146769"}
+{"searchstring": "Stephanie Lahar - Ecofeminist Theory and Grassroots Politics", "date": "1991-4", "filename": "1991_ocr_10.2307_3810031"}
+{"searchstring": "pat gowens - Los Angeles: No More Business As Usual", "date": "2000-0", "filename": "2000_ocr_10.2307_20836702"}
+{"searchstring": "Flossie Lewis and  Nancy Hopkins - The Conversion of Rose", "date": "1989-3", "filename": "1989_ocr_10.2307_25125046"}
+{"searchstring": "Marc Bousquet - The Waste Product of Graduate Education: Toward a Dictatorship of the Flexible", "date": "2002-4", "filename": "2002_ocr_10.2307_466874"}
+{"searchstring": " - A Selection of Web Resources", "date": "2005-3", "filename": "2005_ocr_10.2307_25163759"}
+{"searchstring": "Kristin Barker - Birthing and Bureaucratic Women: Needs Talk and the Definitional Legacy of the Sheppard-Towner Act", "date": "2003-7", "filename": "2003_ocr_10.2307_3178513"}
+{"searchstring": "Lieselotte E. Kurth-Voigt - Kleistian Overtones in E.L. Doctorow's "Ragtime"", "date": "1977-2", "filename": "1977_ocr_10.2307_30156853"}
+{"searchstring": "Stewart Holbrook - Anarchists at Home", "date": "1946-0", "filename": "1946_ocr_10.2307_41204829"}
+{"searchstring": "Patricia A. Palmieri - Patterns of Achievement of Single Academic Women at Wellesley College, 1880-1920", "date": "1980-4", "filename": "1980_ocr_10.2307_3346308"}
+{"searchstring": "Curtis Marez - Pancho Villa Meets Sun Yat-Sen: Third World Revolution and the History of Hollywood Cinema", "date": "2005-0", "filename": "2005_ocr_10.2307_3567904"}
+{"searchstring": "Peter G. Filene - Narrating Progressivism: Unitarians v. Pluralists v. Students", "date": "1993-3", "filename": "1993_ocr_10.2307_2080216"}
+{"searchstring": "Richard Polenberg - Progressivism and Anarchism: Judge Henry D. Clayton and the Abrams Trial", "date": "1985-0", "filename": "1985_ocr_10.2307_743635"}
+{"searchstring": "V. K. R. V. Rao and  A. Reader - B N Ganguli", "date": "1978-0", "filename": "1978_ocr_10.2307_4367012"}
+{"searchstring": "John C. Chalberg - The Spirit of the 1920s", "date": "2006-1", "filename": "2006_ocr_10.2307_25162010"}
+{"searchstring": "WALTER GOLDWATER - RADICAL PERIODICALS IN AMERICA 1890-1950: A BIBLIOGRAPHY WITH BRIEF NOTES", "date": "1963-4", "filename": "1963_ocr_10.2307_40857983"}
+{"searchstring": "Michael Nowlin - Edith Wharton's Higher Provincialism: "French Ways" for Americans and the Ends of "The Age of Innocence"", "date": "2004-4", "filename": "2004_ocr_10.2307_27557465"}
+{"searchstring": "Patrick Renshaw - The IWW and the Red Scare 1917-24", "date": "1968-0", "filename": "1968_ocr_10.2307_259851"}
+{"searchstring": "James M. Hutchisson and  Stephen R. Pastore - Sinclair Lewis and Theodore Dreiser: New Letters and a Reexamination of Their Relationship", "date": "1999-0", "filename": "1999_ocr_10.2307_27746962"}
+{"searchstring": "GERALD L. MARRINER - THE FEMINIST REVOLT: THE EMERGENCE OF THE NEW WOMAN IN THE EARLY TWENTIETH CENTURY", "date": "1974-4", "filename": "1974_ocr_10.2307_23261506"}
+{"searchstring": "Joyce Antler - Feminism as Life-Process: The Life and Career of Lucy Sprague Mitchell", "date": "1981-4", "filename": "1981_ocr_10.2307_3177675"}
+{"searchstring": "Eelka Lampe - From the Battle to the Gift: The Directing of Anne Bogart", "date": "1992-4", "filename": "1992_ocr_10.2307_1146178"}
+{"searchstring": "Ben Lappin - From the American Scene: May Day in Toronto: Yesteryear and Now", "date": "2002-4", "filename": "2002_ocr_10.2307_25149220"}
+{"searchstring": "Linda Dalrymple Henderson - Mysticism as the "Tie That Binds": The Case of Edward Carpenter and Modernism", "date": "1987-4", "filename": "1987_ocr_10.2307_776840"}
+{"searchstring": "Sacvan Bercovitch - Investigations of an Americanist", "date": "1991-2", "filename": "1991_ocr_10.2307_2078798"}
+{"searchstring": "Harold T. McCarthy - Henry Miller's Democratic Vistas", "date": "1971-5", "filename": "1971_ocr_10.2307_2711926"}
+{"searchstring": "HUB ZWART - Environmental Pollution and Professional Responsibility: Ibsen's "A Public Enemy" as a Seminar on Science Communication and Ethics", "date": "2004-8", "filename": "2004_ocr_10.2307_30301998"}
+{"searchstring": "Barbara O. De Zalduondo - Prostitution Viewed Cross-Culturally: Toward Recontextualizing Sex Work in AIDS Intervention Research", "date": "1991-5", "filename": "1991_ocr_10.2307_3813068"}
+{"searchstring": "Eli Lederhendler - Guides for the Perplexed: Sex, Manners, and Mores for the Yiddish Reader in America", "date": "1991-0", "filename": "1991_ocr_10.2307_1396111"}
+{"searchstring": "Christie V. McDonald and  Jacques Derrida - Interview: Choreographies: Jacques Derrida and Christie V. McDonald", "date": "1982-7", "filename": "1982_ocr_10.2307_464681"}
+{"searchstring": "Louis J. Budd - On to the Centennial", "date": "2004-2", "filename": "2004_ocr_10.2307_40281731"}
+{"searchstring": "Mark Warren - Nietzsche and Political Philosophy", "date": "1985-5", "filename": "1985_ocr_10.2307_191528"}
+{"searchstring": "Maxine Molyneux - No God, No Boss, No Husband: Anarchist Feminism in Nineteenth-Century Argentina", "date": "1986-1", "filename": "1986_ocr_10.2307_2633723"}
+{"searchstring": "Melissa R. Klapper - "Those by Whose Side We Have Labored": American Jewish Women and the Peace Movement between the Wars", "date": "2010-2", "filename": "2010_ocr_10.2307_40959937"}
+{"searchstring": "Gordon K. Grigsby - The Presence of Reality: The Poetry of Kenneth Rexroth", "date": "1971-0", "filename": "1971_ocr_10.2307_4637476"}
+{"searchstring": "carol anne douglas and  alice henry - towards a politics of sexuality", "date": "1982-6", "filename": "1982_ocr_10.2307_25774454"}
+{"searchstring": "Ed Webb - Funkify and Diversify or the Politics of Dancing: Reflections on APSA in Chicago", "date": "2005-1", "filename": "2005_ocr_10.2307_30044210"}
+{"searchstring": "Francis M. Naumann and  Paul Avrich - Adolf Wolff: "Poet, Sculptor and Revolutionist, but Mostly Revolutionist"", "date": "1985-9", "filename": "1985_ocr_10.2307_3050963"}
+{"searchstring": "Dorothy Bryant and  Ruby Cohn and  Malcolm Cowley and  Helga Ensele and  Jim Fitzmaurice and  Ian Franckenstein and  Herbert Gold and  Doris Grumbach and  Alan M. F. Gunn and  James Laughlin and  Leo E. Litwak and  Kenneth D. McCormick and  Henry McGuckin and  Jessica Mitford and  Kate Moses and  Howard Nemerov and  Ron Padgett and  Morris Renek and  William L. Shirer and  Robert C. Smith and  Eric Solomon and  James Stern and  Studs Terkel and  Apple Vail and  Kathe Vail and  Sharon Walsh and  George Wickes - Personal Views", "date": "1988-0", "filename": "1988_ocr_10.2307_441207"}
+{"searchstring": " - ideas", "date": "1972-4", "filename": "1972_ocr_10.2307_25771521"}
+{"searchstring": "Artemis Michailidou - Edna St. Vincent Millay and Anne Sexton: The Disruption of Domestic Bliss", "date": "2004-4", "filename": "2004_ocr_10.2307_27557464"}
+{"searchstring": "Arnold Goldman - The Culture of the Provincetown Players", "date": "1978-2", "filename": "1978_ocr_10.2307_27553426"}
+{"searchstring": "Leonard Vogt - The Literature of Work", "date": "1978-9", "filename": "1978_ocr_10.2307_20709137"}
+{"searchstring": "Theodore Ziolkowski - The Anglo-American Krimi as German Kulturgeschichte", "date": "2007-0", "filename": "2007_ocr_10.2307_27668377"}
+{"searchstring": "John P. Diggins - Getting Hegel out of History: Max Eastman's Quarrel with Marxism", "date": "1974-2", "filename": "1974_ocr_10.2307_1868315"}
+{"searchstring": "Betty Ann Bergland - Representing Ethnicity in Autobiography: Narratives of Opposition", "date": "1994-1", "filename": "1994_ocr_10.2307_3507883"}
+{"searchstring": "Jeffrey Hart - Reality in America: Yet Once More", "date": "1994-0", "filename": "1994_ocr_10.2307_27546935"}
+{"searchstring": "Larry PORTIS - Theoretical Reflections on Crises and Revolutions", "date": "1995-5", "filename": "1995_ocr_10.2307_20872530"}
+{"searchstring": "Cynthia Fuchs Epstein - Great Divides: The Cultural, Cognitive, and Social Bases of the Global Subordination of Women", "date": "2007-2", "filename": "2007_ocr_10.2307_25472445"}
+{"searchstring": "John Levi Martin - Structuring the Sexual Revolution", "date": "1996-2", "filename": "1996_ocr_10.2307_658058"}
+{"searchstring": "Geoffrey Galt Harpham - E. L. Doctorow and the Technology of Narrative", "date": "1985-1", "filename": "1985_ocr_10.2307_462202"}
+{"searchstring": "Julia Schwendinger and  Herman Schwendinger - Sociology's Founding Fathers: Sexists to a Man", "date": "1971-1", "filename": "1971_ocr_10.2307_349452"}
+{"searchstring": "frances chapman - emma's party", "date": "1975-2", "filename": "1975_ocr_10.2307_25772105"}
+{"searchstring": "Susan Fillin-Yeh - Dandies, Marginality and Modernism: Georgia O'Keeffe, Marcel Duchamp and Other Cross-Dressers", "date": "1995-1", "filename": "1995_ocr_10.2307_1360551"}
+{"searchstring": "Michael W. Sedlak - Young Women and the City: Adolescent Deviance and the Transformation of Educational Policy, 1870-1960", "date": "1983-4", "filename": "1983_ocr_10.2307_367967"}
+{"searchstring": "Maurice Hamington - Two Leaders, Two Utopias: Jane Addams and Dorothy Day", "date": "2007-7", "filename": "2007_ocr_10.2307_40071210"}
+{"searchstring": "Peter Boag - Sex & Politics in Progressive-Era Portland & Eugene: The 1912 Same-Sex Vice Scandal", "date": "1999-7", "filename": "1999_ocr_10.2307_20614960"}
+{"searchstring": " - Contents Index to Volume 20 (2010-2011)", "date": "2011-2", "filename": "2011_ocr_10.5406_femteacher.21.3.0269"}
+{"searchstring": "Desley Deacon - The Republic of the Spirit: Fieldwork in Elsie Clews Parsons's Turn to Anthropology", "date": "1992-1", "filename": "1992_ocr_10.2307_3346642"}
+{"searchstring": "Leonardo Covis - The Radical Next Door: The Los Angeles Catholic Worker during the Cold War", "date": "2009-4", "filename": "2009_ocr_10.2307_41172457"}
+{"searchstring": "Mark Taylor - Utopia by Taxation: Frank Stephens and the Single Tax Community of Arden, Delaware", "date": "2002-4", "filename": "2002_ocr_10.2307_20093532"}
+{"searchstring": "Janet Lee - "Sisterhood of the Smiling Countenance and the Merry Laugh": Unsettling the Sentimental in a New York Women's Commune, 1921-24", "date": "1996-1", "filename": "1996_ocr_10.2307_3346892"}
+{"searchstring": "H. Bruce Franklin - The Inside Stories of the Global American Prison", "date": "2008-0", "filename": "2008_ocr_10.2307_40755510"}
+{"searchstring": " - Collected Essays", "date": "1991-2", "filename": "1991_ocr_10.2307_2165484"}
+{"searchstring": "James Brown - The Zen of Anarchy: Japanese Exceptionalism and the Anarchist Roots of the San Francisco Poetry Renaissance", "date": "2009-7", "filename": "2009_ocr_10.1525_rac.2009.19.2.207"}
+{"searchstring": "Suzanne Clark - Cold Warriors: The Nation and Literary Realism", "date": "2000-0", "filename": "2000_ocr_10.2307_27747000"}
+{"searchstring": "Rubén Martínez - Echoes of Magón: The march between two cities", "date": "2012-2", "filename": "2012_ocr_10.1525_boom.2012.2.4.1"}
+{"searchstring": "Mike Davis - Ward Moore’s Freedom Ride", "date": "2011-1", "filename": "2011_ocr_10.5621_sciefictstud.38.3.0385"}
+{"searchstring": "Paul Avrich - Russian Anarchists and the Civil War", "date": "1968-7", "filename": "1968_ocr_10.2307_127258"}
+{"searchstring": "David Gates - Steve Earle", "date": "1998-4", "filename": "1998_ocr_10.2307_40425555"}
+{"searchstring": "Oz Frankel - Whatever Happened to "Red Emma"? Emma Goldman, from Alien Rebel to American Icon", "date": "1996-2", "filename": "1996_ocr_10.2307_2945644"}
+{"searchstring": "Blanche H. Gelfant - "Lives" of Women Writers: Cather, Austin, Porter / and Willa, Mary, Katherine Anne", "date": "1984-0", "filename": "1984_ocr_10.2307_1346018"}
+{"searchstring": "Tony Platt and  Cecilia O'Leary - Patriot Acts", "date": "2003-1", "filename": "2003_ocr_10.2307_29768164"}
+{"searchstring": "Robert M. Dowling - On Eugene O'Neill's "Philosophical Anarchism"", "date": "2007-1", "filename": "2007_ocr_10.2307_29784831"}
+{"searchstring": "Geoffrey R. Stone - Judge Learned Hand and the Espionage Act of 1917: A Mystery Unraveled", "date": "2003-1", "filename": "2003_ocr_10.2307_1600562"}
+{"searchstring": "O. John Rogge - "Congress Shall Make No Law...": II", "date": "1958-2", "filename": "1958_ocr_10.2307_1286054"}
+{"searchstring": "Steve Sweeney Turner and  John Cage - John Cage's Practical Utopias: John Cage in Conversation with Steve Sweeney Turner", "date": "1990-9", "filename": "1990_ocr_10.2307_1193658"}
+{"searchstring": "Nancy Beck - not much junk", "date": "1974-5", "filename": "1974_ocr_10.2307_25771904"}
+{"searchstring": "Nancy Pittman Pinchot - Amos Pinchot: Rebel Prince", "date": "1999-4", "filename": "1999_ocr_10.2307_27774187"}
+{"searchstring": "Cindy Hayostek - DOUGLAS DELEGATES TO THE 1910 CONSTITUTIONAL CONVENTION AND ARIZONA'S PROGRESSIVE HERITAGE", "date": "2006-2", "filename": "2006_ocr_10.2307_41697007"}
+{"searchstring": "Karen S. Langlois - Mary Austin and Lincoln Steffens", "date": "1986-0", "filename": "1986_ocr_10.2307_3817167"}
+{"searchstring": "Charles De Benedetti - Peace History, in the American Manner", "date": "1984-1", "filename": "1984_ocr_10.2307_492880"}
+{"searchstring": "Susan O'Malley - Introduction to a CUNY Faculty Development Seminar on Balancing the Curriculum", "date": "1989-1", "filename": "1989_ocr_10.2307_20709645"}
+{"searchstring": "Carisa R. Showden - What's Political about the New Feminisms?", "date": "2009-1", "filename": "2009_ocr_10.2307_40388740"}
+{"searchstring": "Bernard Porter - The Freiheit Prosecutions, 1881-1882", "date": "1980-2", "filename": "1980_ocr_10.2307_2638728"}
+{"searchstring": "Peter H. Irons - "Fighting Fair": Zechariah Chafee, Jr., the Department of Justice, and the "Trial at the Harvard Club"", "date": "1981-4", "filename": "1981_ocr_10.2307_1340754"}
+{"searchstring": "Stanley F. Chyet - American Jewish Literary Productivity: A Selected Bicentennial Bibliography", "date": "1975-2", "filename": "1975_ocr_10.2307_27943459"}
+{"searchstring": "John Brentlinger - Revolutionizing Spirituality: Reflections on Marxism and Religion", "date": "2000-7", "filename": "2000_ocr_10.2307_40403838"}
+{"searchstring": "F. H. Matthews - The Americanization of Sigmund Freud: Adaptations of Psychoanalysis before 1917", "date": "1967-4", "filename": "1967_ocr_10.2307_27552762"}
+{"searchstring": "Shari Rabin - “The Advent of a Western Jewess”: Rachel Frank and Jewish                     Female Celebrity in 1890s America", "date": "2011-0", "filename": "2011_ocr_10.2979_nashim.22.111"}
+{"searchstring": "Hamlin Hill - Mark Twain: Audience and Artistry", "date": "1963-4", "filename": "1963_ocr_10.2307_2710265"}
+{"searchstring": "John B. Poster - A Warmth of Soul: Samuel Northrup Harper and the Russians, 1904-43", "date": "1979-4", "filename": "1979_ocr_10.2307_260057"}
+{"searchstring": "Herbert Shapiro - Lincoln Steffens: The Muckraker Reconsidered", "date": "1972-0", "filename": "1972_ocr_10.2307_3485306"}
+{"searchstring": "MARILYN FRENCH - WOMEN IN LANGUAGE", "date": "1976-0", "filename": "1976_ocr_10.2307_41178001"}
+{"searchstring": "ROCHELLE GURSTEIN - "Puritanism" as Epithet: Common Standards and the Fate of Reticence", "date": "1994-1", "filename": "1994_ocr_10.2307_40548723"}
+{"searchstring": "Sharon Hartman Strom - Challenging "Woman's Place": Feminism, the Left, and Industrial Unionism in the 1930s", "date": "1983-7", "filename": "1983_ocr_10.2307_3177497"}
+{"searchstring": "Eugene Stein - The Triumph of the Prague Workers' Councils", "date": "1993-4", "filename": "1993_ocr_10.2307_20153424"}
+{"searchstring": "ILAN STAVANS - The Rise and Fall of Yiddish", "date": "2000-1", "filename": "2000_ocr_10.2307_23010514"}
+{"searchstring": "Stuart E. Knee - GOD, ASCH AND VENGEANCE", "date": "1997-1", "filename": "1997_ocr_10.2307_41205874"}
+{"searchstring": "Margaret Morganroth Gullette - Midlife Heroines, "Older and Freer"", "date": "1996-4", "filename": "1996_ocr_10.2307_4337336"}
+{"searchstring": " - women's liberation testimony", "date": "1970-5", "filename": "1970_ocr_10.2307_25771051"}
+{"searchstring": "Maggie Jaffe - Exile's Return", "date": "1997-4", "filename": "1997_ocr_10.2307_40358615"}
+{"searchstring": "Albert Goldbarth - The Lake", "date": "1996-7", "filename": "1996_ocr_10.2307_41401674"}
+{"searchstring": "David M. Rabban - The Free Speech League, the ACLU, and Changing Conceptions of Free Speech in American History", "date": "1992-1", "filename": "1992_ocr_10.2307_1228985"}
+{"searchstring": "Mario Ferrero - Martyrdom Contracts", "date": "2006-2", "filename": "2006_ocr_10.2307_27638528"}
+{"searchstring": "Richard A. Reuss - Folk Music and Social Conscience: The Musical Odyssey of Charles Seeger", "date": "1979-0", "filename": "1979_ocr_10.2307_1499348"}
+{"searchstring": "Elizabeth Fee and  Barbara Greene - Science and Social Reform: Women in Public Health", "date": "1989-7", "filename": "1989_ocr_10.2307_3342677"}
+{"searchstring": "erika m. and  laura b. - other news", "date": "1993-4", "filename": "1993_ocr_10.2307_20834399"}
+{"searchstring": "BERTRAM WYATT-BROWN - JOHN BROWN, WEATHERMEN, AND THE PSYCHOLOGY OF ANTINOMIAN VIOLENCE", "date": "1975-2", "filename": "1975_ocr_10.2307_41177972"}
+{"searchstring": "Dorothee Schneider - Naturalization and United States Citizenship in Two Periods of Mass Migration: 1894-1930, 1965-2000", "date": "2001-0", "filename": "2001_ocr_10.2307_27502779"}
+{"searchstring": "Jean McCrindle and  Fiona MacMillan - A Hyena in Petticoats", "date": "1992-2", "filename": "1992_ocr_10.2307_25553764"}
+{"searchstring": "Olivia Burgess - Revolutionary Bodies in Chuck Palahniuk's <i>Fight Club</i>", "date": "2012-4", "filename": "2012_ocr_10.5325_utopianstudies.23.1.0263"}
+{"searchstring": "Stephen J. Whitfield - Yentl", "date": "1998-0", "filename": "1998_ocr_10.2307_4467547"}
+{"searchstring": "Frank B. Wilderson and  III - When The World Was October", "date": "1991-1", "filename": "1991_ocr_10.2307_2931449"}
+{"searchstring": "Lisa J. Lindquist - Images of Alice: Gender, Deviancy, and a Love Murder in Memphis", "date": "1995-7", "filename": "1995_ocr_10.2307_3704437"}
+{"searchstring": "Charlotte Greenspan - Death Comes to the Broadway Musical", "date": "2012-1", "filename": "2012_ocr_10.2307_23240310"}
+{"searchstring": "David M. Rabban - The IWW Free Speech Fights and Popular Conceptions of Free Expression before World War I", "date": "1994-8", "filename": "1994_ocr_10.2307_1073625"}
+{"searchstring": "Claudia Card - Unnatural Lotteries and Diversity in Philosophy", "date": "2008-1", "filename": "2008_ocr_10.2307_27654055"}
+{"searchstring": "Clara Lomas - Transborder Discourse: The Articulation of Gender in the Borderlands in the Early Twentieth Century", "date": "2003-1", "filename": "2003_ocr_10.2307_3347347"}
+{"searchstring": "Mary Alexander - "Between a Rock and a Hard Place: A History of American Sweatshops, 1820: Present", at the National Museum of American History", "date": "1999-0", "filename": "1999_ocr_10.2307_25147414"}
+{"searchstring": "Paula K. Benkart - Changing Attitudes of Presbyterians Toward Southern and Eastern European Immigrants, 1880—1914", "date": "1971-0", "filename": "1971_ocr_10.2307_23327231"}
+{"searchstring": "MIMI GOLDMAN - PROSTITUTION IN AMERICA", "date": "1974-0", "filename": "1974_ocr_10.2307_29765919"}
+{"searchstring": "LINDA RABBEN - Amnesty International: Myth and Reality", "date": "2001-1", "filename": "2001_ocr_10.2307_23009147"}
+{"searchstring": " - special feature: Contract with Women of the USA", "date": "1996-7", "filename": "1996_ocr_10.2307_20835543"}
+{"searchstring": "Amy Hoffman - The Mystical Hiring Committee of Life", "date": "2007-7", "filename": "2007_ocr_10.2307_40638879"}
+{"searchstring": "William R. Douglas - "The Germans Would Court Martial Me, Too": St. Paul's World War I Socialist Draft Resisters", "date": "1997-0", "filename": "1997_ocr_10.2307_20188048"}
+{"searchstring": "Mary Burgoyne - Conrad among the Anarchists: Documents on Martial Bourdin and the Greenwich Bombing", "date": "2007-4", "filename": "2007_ocr_10.2307_20873587"}
+{"searchstring": "Fannie Lou Hamer - growth of feminism", "date": "1973-7", "filename": "1973_ocr_10.2307_25783613"}
+{"searchstring": "Kathy E. Ferguson - Discourses of Danger: Locating Emma Goldman", "date": "2008-0", "filename": "2008_ocr_10.2307_20452663"}
+{"searchstring": "Barbara J. Falk - Learning from History: Why We Need Dissent and Dissidents", "date": "2008-2", "filename": "2008_ocr_10.2307_40204467"}
+{"searchstring": "Alberto Herrera and  Jr. - Introduction", "date": "1994-6", "filename": "1994_ocr_10.2307_2081156"}
+{"searchstring": "Julia Rose Kraut - Global Anti-Anarchism: The Origins of Ideological Deportation and the Suppression of Expression", "date": "2012-1", "filename": "2012_ocr_10.2979_indjglolegstu.19.1.169"}
+{"searchstring": "Susan Zeiger - She Didn't Raise Her Boy to Be a Slacker: Motherhood, Conscription, and the Culture of the First World War", "date": "1996-4", "filename": "1996_ocr_10.2307_3178245"}
+{"searchstring": "Alix Kates Shulman - Women of the PEN: Dances with Feminists", "date": "1991-2", "filename": "1991_ocr_10.2307_4021093"}
+{"searchstring": "Russell J. Reising - Lionel Trilling, The Liberal Imagination, and the Emergence of the Cultural Discourse of Anti-Stalinism", "date": "1993-4", "filename": "1993_ocr_10.2307_303178"}
+{"searchstring": "Christine Stansell - Louise Bryant Grows Old", "date": "2000-0", "filename": "2000_ocr_10.2307_4289696"}
+{"searchstring": "Deborah K. King - Multiple Jeopardy, Multiple Consciousness: The Context of a Black Feminist Ideology", "date": "1988-0", "filename": "1988_ocr_10.2307_3174661"}
+{"searchstring": "Temma E. Kaplan - Spanish Anarchism and Women's Liberation", "date": "1971-1", "filename": "1971_ocr_10.2307_259637"}
+{"searchstring": " - A Discussion: "The New Puritanism" Reconsidered", "date": "1995-4", "filename": "1995_ocr_10.2307_40548829"}
+{"searchstring": "Michael O'Malley and  Roy Rosenzweig - Brave New World or Blind Alley? American History on the World Wide Web", "date": "1997-6", "filename": "1997_ocr_10.2307_2952737"}
+{"searchstring": "James E. B. Breslin - The Trials of Mark Rothko", "date": "1986-0", "filename": "1986_ocr_10.2307_2928511"}
+{"searchstring": "Marshall Bruce Gentry - Ventriloquists' Conversations: The Struggle for Gender Dialogue in E. L. Doctorow and Philip Roth", "date": "1993-0", "filename": "1993_ocr_10.2307_1208685"}
+{"searchstring": " - ROUNDTABLE—WAR, FORCE, AND REVOLUTION", "date": "2006-3", "filename": "2006_ocr_10.2307_25660107"}
+{"searchstring": "CHRISTOPHER LOOBY - S<span class="smallcaps">OUTHWORTH</span>  A<span class="smallcaps">ND</span> S<span class="smallcaps">ERIALITY</span>", "date": "2004-9", "filename": "2004_ocr_10.1525_ncl.2004.59.2.179"}
+{"searchstring": "Robert L. Holmes - State-Legitimacy and the Obligation to Obey the Law", "date": "1981-2", "filename": "1981_ocr_10.2307_1072836"}
+{"searchstring": "Lewis S. Feuer - The Influence of the American Communist Colonies on Engels and Marx", "date": "1966-9", "filename": "1966_ocr_10.2307_444708"}
+{"searchstring": "Michel Ciment and  Robert G. High and  Lester Cole and  Thomas Waugh - Letters", "date": "1980-0", "filename": "1980_ocr_10.2307_41686005"}
+{"searchstring": "Jean Monsterleet - Contemporary Chinese Letters", "date": "1954-7", "filename": "1954_ocr_10.2307_40095860"}
+{"searchstring": "Samuel A. McReynolds - Eugenics and Rural Development: The Vermont Commission on Country Life's Program for the Future", "date": "1997-7", "filename": "1997_ocr_10.2307_3744316"}
+{"searchstring": "Dorothy Gallagher - Disappeared", "date": "1990-1", "filename": "1990_ocr_10.2307_25007352"}
+{"searchstring": "Michael Rogin - The Great Mother Domesticated: Sexual Difference and Sexual Indifference in D. W. Griffith's "Intolerance"", "date": "1989-4", "filename": "1989_ocr_10.2307_1343653"}
+{"searchstring": "Chicken Lady - droppings...", "date": "1971-6", "filename": "1971_ocr_10.2307_25771323"}
+{"searchstring": "Bonnie Zimmerman - The Politics of Transliteration: Lesbian Personal Narratives", "date": "1984-7", "filename": "1984_ocr_10.2307_3173616"}
+{"searchstring": "Alexis J. Anderson - The Formative Period of First Amendment Theory, 1870-1915", "date": "1980-1", "filename": "1980_ocr_10.2307_844594"}
+{"searchstring": "thomas j. schlereth - america 1871-1919: a view of chicago", "date": "1976-0", "filename": "1976_ocr_10.2307_40641220"}
+{"searchstring": "JEAN BETHKE ELSHTAIN - The New Feminist Scholarship", "date": "1986-4", "filename": "1986_ocr_10.2307_40547783"}
+{"searchstring": "Thomas Alexander - The Fourth World of American Philosophy: The Philosophical Significance of Native American Culture", "date": "1996-7", "filename": "1996_ocr_10.2307_40320608"}
+{"searchstring": "Joseph Rappaport - The American Yiddish Press and the European Conflict in 1914", "date": "1957-7", "filename": "1957_ocr_10.2307_4465551"}
+{"searchstring": "Lucy Delap - The Superwoman: Theories of Gender and Genius in Edwardian Britain", "date": "2004-3", "filename": "2004_ocr_10.2307_4091547"}
+{"searchstring": "Deirdre M. Moloney - "Strangers in the Land", Gender, and Immigration Policy", "date": "2012-4", "filename": "2012_ocr_10.2307_23249078"}
+{"searchstring": "ROBIN MOORE - ¿REVOLUCIÓN CON PACHANGA? DANCE MUSIC IN SOCIALIST CUBA", "date": "2001-1", "filename": "2001_ocr_10.2307_41800169"}
+{"searchstring": "Lillian S. Robinson - Those Who Can, Do: Teaching the Sexual Revolution", "date": "1985-9", "filename": "1985_ocr_10.2307_20709490"}
+{"searchstring": " - Collected Essays", "date": "2002-6", "filename": "2002_ocr_10.1086_532658"}
+{"searchstring": "Leila J. Rupp - The Women's Community in the National Woman's Party, 1945 to the 1960s", "date": "1985-7", "filename": "1985_ocr_10.2307_3174311"}
+{"searchstring": "Herman W. Liebert - THE FIRST TWO YEARS", "date": "1966-1", "filename": "1966_ocr_10.2307_40858087"}
+{"searchstring": "Micaela di Leonardo - The Female World of Cards and Holidays: Women, Families, and the Work of Kinship", "date": "1987-4", "filename": "1987_ocr_10.2307_3174331"}
+{"searchstring": "Eric Cheyfitz - What Work is there for us to do? American Literary Studies or American Cultural Studies?", "date": "1995-2", "filename": "1995_ocr_10.2307_2927902"}
+{"searchstring": "georgia jones - three women", "date": "1972-4", "filename": "1972_ocr_10.2307_25771499"}
+{"searchstring": "Colleen Martell - Review", "date": "2011-2", "filename": "2011_ocr_10.5406_femteacher.21.2.0162"}
+{"searchstring": "Richard Bach Jensen - The International Anti-Anarchist Conference of 1898 and the Origins of Interpol", "date": "1981-4", "filename": "1981_ocr_10.2307_260577"}
+{"searchstring": "Lynn D. Gordon - The Gibson Girl Goes to College: Popular Culture and Women's Higher Education in the Progressive Era, 1890-1920", "date": "1987-7", "filename": "1987_ocr_10.2307_2712910"}
+{"searchstring": "Harvey J. Kaye - Radicals and the Making of American Democracy: Toward a New Narrative of American History", "date": "1995-2", "filename": "1995_ocr_10.2307_494487"}
+{"searchstring": "Robert Cottrell - Twentieth-Century American Radicalism: A Bibliographical Essay", "date": "1986-1", "filename": "1986_ocr_10.2307_493175"}
+{"searchstring": "Lucy Taksa and  Tristan Perrier - "Travail, luttes, loisirs": l'histoire orale et l'exploration de la culture ouvrière en Australie", "date": "1994-4", "filename": "1994_ocr_10.2307_3779289"}
+{"searchstring": "Christopher Phelps - A Neglected Document on Socialism and Sex", "date": "2007-1", "filename": "2007_ocr_10.2307_30114199"}
+{"searchstring": "Michael Merrill - Even Conservative Unions Have Revolutionary Effects: Frank Tannenbaum on the Labor Movement", "date": "2010-4", "filename": "2010_ocr_10.2307_40648587"}
+{"searchstring": "Chicken Lady - chicken lady: droppings...", "date": "1975-2", "filename": "1975_ocr_10.2307_25772125"}
+{"searchstring": "Silvia Federici - Putting Feminism Back on Its Feet", "date": "1984-4", "filename": "1984_ocr_10.2307_466587"}
+{"searchstring": "STEPHEN HARRIS - MYTHS OF INDIVIDUALISM IN E.L.DOCTOROW'S "RAGTIME"", "date": "2001-2", "filename": "2001_ocr_10.2307_41053867"}
+{"searchstring": "Ruth Hutchinson Crocker - Christamore: An Indiana Settlement House from Private Dream to Public Agency", "date": "1987-6", "filename": "1987_ocr_10.2307_27791067"}
